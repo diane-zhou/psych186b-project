@@ -1,0 +1,71 @@
+title,imdb_rating,year,budget,gross_us,movie_key
+N/A,N/A,N/A,N/A,N/A,argo
+N/A,N/A,N/A,N/A,N/A,harakiri
+N/A,N/A,N/A,N/A,N/A,the_green_mile
+N/A,N/A,N/A,N/A,N/A,apocalypse_now
+N/A,N/A,N/A,N/A,N/A,the_social_network
+N/A,N/A,N/A,N/A,N/A,forrest_gump
+N/A,N/A,N/A,N/A,N/A,one_flew_over_the_cuckoo_s_nest
+N/A,N/A,N/A,N/A,N/A,the_lord_of_the_rings_the_two_towers
+N/A,N/A,N/A,N/A,N/A,the_lord_of_the_rings_the_return_of_the_king
+N/A,N/A,N/A,N/A,N/A,portrait_of_a_lady_on_fire
+N/A,N/A,N/A,N/A,N/A,toy_story_4
+N/A,N/A,N/A,N/A,N/A,spider_man_no_way_home
+N/A,N/A,N/A,N/A,N/A,your_name
+N/A,N/A,N/A,N/A,N/A,parasite
+N/A,N/A,N/A,N/A,N/A,inside_out
+N/A,N/A,N/A,N/A,N/A,fight_club
+N/A,N/A,N/A,N/A,N/A,the_godfather
+Argo,7.7,2012,"$44,500,000","$136,025,503",argo
+Memento,8.4,2000,"$9,000,000","$25,544,867",memento
+12 Angry Men,9.0,1957,"$350,000",N/A,12_angry_men
+Harry Potter and the Deathly Hallows: Part 2,8.1,2011,"$125,000,000","$381,884,297",harry_potter_and_the_deathly_hallows_part_2
+Singin' in the Rain,8.3,1952,"$2,540,800","$1,884,537",singin_in_the_rain
+The Pianist,8.5,2002,"$35,000,000","$32,590,750",the_pianist
+The Shawshank Redemption,9.3,1994,"$25,000,000","$28,767,189",the_shawshank_redemption
+Spirited Away,8.6,2001,"¥2,000,000,000","$14,821,254",spirited_away
+Eighth Grade,7.3,2018,"$2,000,000","$13,539,709",eighth_grade
+Interstellar,8.7,2014,"$165,000,000","$203,227,580",interstellar
+Taxi Driver,8.2,1976,"$1,300,000","$28,262,574",taxi_driver
+How to Train Your Dragon,7.7,2025,"$150,000,000","$262,958,100",how_to_train_your_dragon
+Hell or High Water,7.6,2016,"$12,000,000","$27,007,844",hell_or_high_water
+The Dark Knight,9.1,2008,"$185,000,000","$534,987,076",the_dark_knight
+Psycho,8.5,1960,"$806,947","$32,181,230",psycho
+Vertigo,8.2,1958,"$2,479,000","$7,863,310",vertigo
+Star Trek,7.9,2009,"$150,000,000","$257,730,019",star_trek
+Mad Max: Fury Road,8.1,2015,"$150,000,000","$154,280,290",mad_max_fury_road
+Schindler's List,9.0,1993,"$22,000,000","$96,898,818",schindler_s_list
+Raiders of the Lost Ark,8.4,1981,"$18,000,000","$248,159,971",raiders_of_the_lost_ark
+Citizen Kane,8.2,1941,"$839,727","$1,627,530",citizen_kane
+Se7en,8.6,1995,"$33,000,000","$101,871,174",se7en
+It's a Wonderful Life,8.6,1946,"$3,180,000","$1,483,643",it_s_a_wonderful_life
+The Apartment,8.3,1960,"$3,000,000","$18,600,000",the_apartment
+Whiplash,8.5,2014,"$3,300,000","$14,003,391",whiplash
+Inception,8.8,2010,"$160,000,000","$292,587,330",inception
+Spider-Man: Into the Spider-Verse,8.4,2018,"$90,000,000","$190,241,310",spider_man_into_the_spider_verse
+Mission: Impossible - Dead Reckoning Part One,7.6,2023,"$291,000,000","$172,640,980",mission_impossible_dead_reckoning_part_one
+Finding Nemo,8.2,2003,"$94,000,000","$380,843,261",finding_nemo
+Life Is Beautiful,8.6,1997,"ITL 15,000,000,000","$57,563,264",life_is_beautiful
+Spider-Man: Across the Spider-Verse,8.5,2023,"$100,000,000","$381,593,754",spider_man_across_the_spider_verse
+The Farewell,7.5,2019,"$3,000,000","$17,695,781",the_farewell
+2001: A Space Odyssey,8.3,1968,"$12,000,000","$60,481,243",2001_a_space_odyssey
+Saving Private Ryan,8.6,1998,"$70,000,000","$217,049,603",saving_private_ryan
+Top Gun: Maverick,8.2,2022,"$170,000,000","$718,732,821",top_gun_maverick
+Alien,8.5,1979,"$11,000,000","$84,206,106",alien
+City of God,8.6,2002,"R$3,300,000","$7,564,459",city_of_god
+Coco,8.4,2017,"$175,000,000","$210,460,015",coco
+The Matrix,8.7,1999,"$63,000,000","$177,559,005",the_matrix
+Pulp Fiction,8.8,1994,"$8,000,000","$107,928,762",pulp_fiction
+Up,8.3,2009,"$175,000,000","$293,004,164",up
+The Shining,8.4,1980,"$19,000,000","$47,194,352",the_shining
+The Silence of the Lambs,8.6,1991,"$19,000,000","$130,742,922",the_silence_of_the_lambs
+Seven Samurai,8.6,1954,"¥125,000,000","$820,278",seven_samurai
+Casablanca,8.5,1942,"$950,000","$4,219,709",casablanca
+Goodfellas,8.7,1990,"$25,000,000","$46,909,721",goodfellas
+Rear Window,8.5,1954,"$1,000,000","$37,622,343",rear_window
+City Lights,8.5,1931,"$1,500,000","$19,181",city_lights
+Star Wars: Episode V - The Empire Strikes Back,8.7,1980,"$18,000,000","$292,753,960",star_wars_episode_v_the_empire_strikes_back
+Ikiru,8.3,1952,N/A,"$60,239",ikiru
+"The Good, the Bad and the Ugly",8.8,1966,"$1,200,000","$25,100,000",the_good_the_bad_and_the_ugly
+Toy Story 3,8.3,2010,"$200,000,000","$415,004,880",toy_story_3
+The Godfather Part II,9.0,1974,"$13,000,000","$47,834,595",the_godfather_part_ii
