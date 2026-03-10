@@ -1,0 +1,15 @@
+movie_title,label,p,final_pred
+casablanca,1,0.5884392,1
+citizen_kane,0,0.6943984,1
+city_of_god,0,0.2605263,0
+eighth_grade,1,0.2260018,0
+how_to_train_your_dragon,0,0.4209255,0
+psycho,1,0.6676297,1
+schindler_s_list,1,0.34300542,0
+se7en,1,0.48947045,0
+seven_samurai,0,0.23539373,0
+star_wars_episode_v_the_empire_strikes_back,1,0.40764272,0
+the_farewell,1,0.16758156,0
+the_shawshank_redemption,0,0.34850866,0
+the_silence_of_the_lambs,1,0.64640945,1
+up,0,0.46277058,0
