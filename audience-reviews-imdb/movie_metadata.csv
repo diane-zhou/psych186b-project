@@ -1,2 +1,233 @@
 title,imdb_rating,year,budget,gross_us,movie_key
-Mulholland Drive,7.9,N/A,"$15,000,000","$7,220,243",mulholland_drive
+Platoon,8.1,N/A,"$6,000,000","$138,530,565",platoon
+Godzilla Minus One,7.7,N/A,"$15,000,000","$57,144,669",godzilla_minus_one
+Scream 7,5.9,N/A,"$45,000,000","$93,086,497",scream_7
+Hunt for the Wilderpeople,7.8,N/A,N/A,"$5,205,468",hunt_for_the_wilderpeople
+Bottoms,6.7,N/A,N/A,"$12,036,071",bottoms
+The Wild Bunch,7.9,1913,"$6,244,087","$638,641",the_wild_bunch
+1917,8.2,1917,"$95,000,000","$159,227,644",1917
+Oppenheimer,8.2,N/A,"$100,000,000","$330,078,895",oppenheimer
+Rebecca,6.1,N/A,"$18,000,000",N/A,rebecca
+Talk to Me,7.1,N/A,"$4,500,000","$48,299,436",talk_to_me
+The Treasure of the Sierra Madre,8.2,N/A,"$3,000,000","$5,014,000",the_treasure_of_the_sierra_madre
+The Wrestler,7.9,N/A,"$6,000,000","$26,238,243",the_wrestler
+Dog Day Afternoon,8.0,N/A,"$1,800,000","$50,000,000",dog_day_afternoon
+The Great Escape,8.2,1963,"$4,000,000",N/A,the_great_escape
+Moonlight,7.4,2016,"$4,000,000","$27,854,932",moonlight
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,1964,"$1,800,000","$9,440,272",dr_strangelove_or_how_i_learned_to_stop_worrying_and_love_the_bomb
+Argo,7.7,2012,"$44,500,000","$136,025,503",argo
+Poor Things,7.8,2023,"$35,000,000","$34,553,225",poor_things
+Harakiri,8.6,1962,N/A,N/A,harakiri
+The Searchers,7.8,1956,"$3,750,000",N/A,the_searchers
+The Green Mile,8.6,1999,"$60,000,000","$136,801,374",the_green_mile
+Unforgiven,8.2,1992,"$14,400,000","$101,167,799",unforgiven
+Apocalypse Now,8.4,1979,"$31,500,000","$96,074,376",apocalypse_now
+North by Northwest,8.3,1959,"$3,101,000","$66,728",north_by_northwest
+Heat,8.3,1995,"$60,000,000","$67,436,818",heat
+The Social Network,7.8,2010,"$40,000,000","$96,962,694",the_social_network
+On the Waterfront,8.1,1954,"$910,000",N/A,on_the_waterfront
+Inglourious Basterds,8.4,2009,"$70,000,000","$120,540,719",inglourious_basterds
+Forrest Gump,8.8,1994,"$55,000,000","$330,455,270",forrest_gump
+A Clockwork Orange,8.2,1971,"$2,200,000","$26,617,553",a_clockwork_orange
+One Flew Over the Cuckoo's Nest,8.6,1975,"$3,000,000","$108,981,275",one_flew_over_the_cuckoo_s_nest
+Phantom Thread,7.4,2017,"$35,000,000","$21,198,205",phantom_thread
+The Lord of the Rings: The Two Towers,8.8,2002,"$94,000,000","$350,104,956",the_lord_of_the_rings_the_two_towers
+Ex Machina,7.7,2014,"$15,000,000","$25,442,958",ex_machina
+The Third Man,8.1,1949,N/A,"$1,067,364",the_third_man
+The Lord of the Rings: The Return of the King,9.0,2003,"$94,000,000","$386,975,644",the_lord_of_the_rings_the_return_of_the_king
+Once Upon a Time in the West,8.5,1968,"$5,000,000","$5,321,508",once_upon_a_time_in_the_west
+Portrait of a Lady on Fire,8.0,2019,"€4,860,000","$3,759,854",portrait_of_a_lady_on_fire
+Million Dollar Baby,8.1,2004,"$30,000,000","$100,492,203",million_dollar_baby
+Under the Skin,6.3,2013,"$13,300,000","$2,614,251",under_the_skin
+Birdman or (The Unexpected Virtue of Ignorance),7.7,2014,"$18,000,000","$42,340,598",birdman_or_the_unexpected_virtue_of_ignorance
+Stalker,8.0,1979,"RUR 1,000,000","$292,049",stalker
+Toy Story 4,7.6,2019,"$200,000,000","$434,038,008",toy_story_4
+Spider-Man: No Way Home,8.1,2021,"$200,000,000","$814,866,759",spider_man_no_way_home
+Pan's Labyrinth,8.2,2006,"$19,000,000","$37,646,380",pan_s_labyrinth
+The Wolf of Wall Street,8.2,2013,"$100,000,000","$116,900,694",the_wolf_of_wall_street
+The Wizard of Oz,8.1,1939,"$2,777,000","$24,668,669",the_wizard_of_oz
+Your Name.,8.4,2016,"¥370,000,000","$5,017,246",your_name
+The Zone of Interest,7.3,2023,"$15,000,000","$8,659,464",the_zone_of_interest
+Aliens,8.4,1986,"$18,500,000","$85,160,248",aliens
+A Separation,8.3,2011,"$500,000","$7,099,055",a_separation
+Brooklyn,7.5,2015,"$11,000,000","$38,322,743",brooklyn
+Annie Hall,7.9,1977,"$4,000,000","$38,251,425",annie_hall
+Metropolis,8.2,1927,"DEM 6,000,000","$1,236,166",metropolis
+Good Will Hunting,8.4,1997,"$10,000,000","$138,433,435",good_will_hunting
+Past Lives,7.8,2023,"$12,000,000","$11,331,983",past_lives
+Bicycle Thieves,8.2,1948,"$133,000","$371,111",bicycle_thieves
+Everything Everywhere All at Once,7.7,2022,"$14,300,000","$77,191,785",everything_everywhere_all_at_once
+Parasite,8.5,2019,"$11,400,000","$53,847,897",parasite
+Notorious,7.9,1946,"$2,000,000",N/A,notorious
+The General,8.1,1926,"$750,000",N/A,the_general
+The Master,7.1,2012,"$32,000,000","$16,377,274",the_master
+The Grand Budapest Hotel,8.1,2014,"$25,000,000","$59,301,324",the_grand_budapest_hotel
+Call Me by Your Name,7.8,2017,"€4,000,000","$18,095,701",call_me_by_your_name
+Chinatown,8.1,1974,"$6,000,000","$29,200,000",chinatown
+Eternal Sunshine of the Spotless Mind,8.3,2004,"$20,000,000","$34,400,301",eternal_sunshine_of_the_spotless_mind
+John Wick,7.5,2014,"$20,000,000","$43,037,835",john_wick
+Inside Out,8.1,2015,"$175,000,000","$356,461,711",inside_out
+East of Wall,6.1,2025,N/A,"$644,583",east_of_wall
+Avengers: Infinity War,8.4,2018,"$321,000,000","$678,815,482",avengers_infinity_war
+Rashomon,8.1,1950,"$250,000","$46,808",rashomon
+Paths of Glory,8.4,1957,"$935,000",N/A,paths_of_glory
+Breathless,7.6,1960,"FRF 400,000","$414,173",breathless
+Fight Club,8.8,1999,"$63,000,000","$37,030,102",fight_club
+Léon: The Professional,8.5,1994,"$16,000,000","$19,501,238",léon_the_professional
+Manhattan,7.8,1979,"$9,000,000","$39,946,780",manhattan
+Cinema Paradiso,8.5,1988,"$5,000,000","$12,397,210",cinema_paradiso
+The Godfather,9.2,1972,"$6,000,000","$136,381,073",the_godfather
+The 400 Blows,8.0,1959,N/A,$509,the_400_blows
+The Handmaiden,8.1,2016,"₩10,000,000,000","$2,006,788",the_handmaiden
+Memento,8.4,2000,"$9,000,000","$25,544,867",memento
+Star Wars: Episode IV - A New Hope,8.6,1977,"$11,000,000","$460,998,507",star_wars_episode_iv_a_new_hope
+Amadeus,8.4,1984,"$18,000,000","$51,973,029",amadeus
+The Shape of Water,7.3,2017,"$19,400,000","$63,859,435",the_shape_of_water
+Raging Bull,8.1,1980,"$18,000,000","$23,383,987",raging_bull
+12 Angry Men,9.0,1957,"$350,000",N/A,12_angry_men
+Harry Potter and the Deathly Hallows: Part 2,8.1,2011,"$125,000,000","$381,884,297",harry_potter_and_the_deathly_hallows_part_2
+Singin' in the Rain,8.3,1952,"$2,540,800","$1,884,537",singin_in_the_rain
+Black Panther,7.3,2018,"$200,000,000","$700,426,566",black_panther
+Before Sunset,8.1,2004,"$2,700,000","$5,820,649",before_sunset
+Beauty and the Beast,7.1,2017,"$160,000,000","$504,481,165",beauty_and_the_beast
+The Pianist,8.5,2002,"$35,000,000","$32,590,750",the_pianist
+Do the Right Thing,7.9,1989,"$6,500,000","$27,545,445",do_the_right_thing
+The Shawshank Redemption,9.3,1994,"$25,000,000","$28,767,189",the_shawshank_redemption
+Spirited Away,8.6,2001,"¥2,000,000,000","$14,821,254",spirited_away
+The Departed,8.5,2006,"$90,000,000","$132,399,394",the_departed
+The Deer Hunter,8.1,1978,"$15,000,000","$48,979,328",the_deer_hunter
+Eighth Grade,7.3,2018,"$2,000,000","$13,539,709",eighth_grade
+Interstellar,8.7,2014,"$165,000,000","$203,227,580",interstellar
+The Favourite,7.5,2018,"$15,000,000","$34,366,783",the_favourite
+If Beale Street Could Talk,7.1,2018,"$12,000,000","$14,915,773",if_beale_street_could_talk
+Decision to Leave,7.3,2022,"$10,000,000","$2,179,864",decision_to_leave
+Bonnie and Clyde,7.7,1967,"$2,500,000",N/A,bonnie_and_clyde
+The Holdovers,7.9,2023,"$13,000,000","$20,355,375",the_holdovers
+L.A. Confidential,8.2,1997,"$35,000,000","$64,616,940",l_a_confidential
+Modern Times,8.5,1936,"$1,500,000","$163,577",modern_times
+Amélie,8.3,2001,"$10,000,000","$33,712,444",amélie
+Taxi Driver,8.2,1976,"$1,300,000","$28,262,574",taxi_driver
+In the Mood for Love,8.0,2000,N/A,"$3,596,859",in_the_mood_for_love
+Strangers on a Train,7.9,1951,"$1,200,000","$26,597",strangers_on_a_train
+Brokeback Mountain,7.7,2005,"$14,000,000","$84,111,816",brokeback_mountain
+Django Unchained,8.5,2012,"$100,000,000","$162,805,434",django_unchained
+Roma,7.6,2018,N/A,N/A,roma
+Shoplifters,7.9,2018,N/A,"$3,313,513",shoplifters
+How to Train Your Dragon,7.7,2025,"$150,000,000","$262,958,100",how_to_train_your_dragon
+Reservoir Dogs,8.3,1992,"$1,200,000","$2,832,029",reservoir_dogs
+Widows,6.8,2018,"$42,000,000","$42,402,632",widows
+Hell or High Water,7.6,2016,"$12,000,000","$27,007,844",hell_or_high_water
+The Prestige,8.5,2006,"$40,000,000","$53,089,891",the_prestige
+Lawrence of Arabia,8.3,1962,"$15,000,000","$45,306,425",lawrence_of_arabia
+Come and See,8.3,1985,N/A,"$71,909",come_and_see
+Butch Cassidy and the Sundance Kid,8.0,1969,"$6,000,000","$102,308,889",butch_cassidy_and_the_sundance_kid
+The Dark Knight,9.1,2008,"$185,000,000","$534,987,076",the_dark_knight
+The Sting,8.2,1973,"$5,500,000","$156,000,000",the_sting
+The Great Dictator,8.4,1940,"$2,000,000",N/A,the_great_dictator
+Psycho,8.5,1960,"$806,947","$32,181,230",psycho
+Boyhood,7.9,2014,"$4,000,000","$25,352,281",boyhood
+The Iron Claw,7.5,2023,"$15,000,000","$35,070,296",the_iron_claw
+Vertigo,8.2,1958,"$2,479,000","$7,863,310",vertigo
+No Country for Old Men,8.2,2007,"$25,000,000","$74,283,625",no_country_for_old_men
+Star Trek,7.9,2009,"$150,000,000","$257,730,019",star_trek
+Mad Max: Fury Road,8.1,2015,"$150,000,000","$154,280,290",mad_max_fury_road
+Schindler's List,9.0,1993,"$22,000,000","$96,898,818",schindler_s_list
+Raiders of the Lost Ark,8.4,1981,"$18,000,000","$248,159,971",raiders_of_the_lost_ark
+Citizen Kane,8.2,1941,"$839,727","$1,627,530",citizen_kane
+Inside Out 2,7.5,2024,"$200,000,000","$652,980,194",inside_out_2
+Jaws,8.1,1975,"$7,000,000","$280,083,300",jaws
+The Intouchables,8.5,2011,"€9,500,000","$10,198,820",the_intouchables
+Se7en,8.6,1995,"$33,000,000","$101,871,174",se7en
+The Lord of the Rings: The Fellowship of the Ring,8.9,2001,"$93,000,000","$325,873,309",the_lord_of_the_rings_the_fellowship_of_the_ring
+Blue Velvet,7.7,1986,"$6,000,000","$8,551,228",blue_velvet
+It's a Wonderful Life,8.6,1946,"$3,180,000","$1,483,643",it_s_a_wonderful_life
+The Apartment,8.3,1960,"$3,000,000","$18,600,000",the_apartment
+Sunset Boulevard,8.4,1950,"$1,752,000","$299,645",sunset_boulevard
+Grave of the Fireflies,8.5,1988,"$3,700,000","$516,962",grave_of_the_fireflies
+Great Expectations,6.8,1998,"$25,000,000","$26,420,672",great_expectations
+High Noon,7.9,1952,"$730,000",N/A,high_noon
+Fargo,8.1,1996,"$7,000,000","$24,611,975",fargo
+Whiplash,8.5,2014,"$3,300,000","$14,003,391",whiplash
+3 Idiots,8.4,2009,"₹550,000,000","$6,532,874",3_idiots
+Inception,8.8,2010,"$160,000,000","$292,587,330",inception
+Selma,7.5,2014,"$20,000,000","$52,076,908",selma
+Spider-Man: Into the Spider-Verse,8.4,2018,"$90,000,000","$190,241,310",spider_man_into_the_spider_verse
+Mission: Impossible - Dead Reckoning Part One,7.6,2023,"$291,000,000","$172,640,980",mission_impossible_dead_reckoning_part_one
+The Maltese Falcon,7.9,1941,"$375,000","$18,180",the_maltese_falcon
+Finding Nemo,8.2,2003,"$94,000,000","$380,843,261",finding_nemo
+Carol,7.3,2015,"$11,800,000","$12,711,491",carol
+Life Is Beautiful,8.6,1997,"ITL 15,000,000,000","$57,563,264",life_is_beautiful
+Witness for the Prosecution,8.4,1957,"$3,000,000",N/A,witness_for_the_prosecution
+La La Land,8.0,2016,"$30,000,000","$151,101,803",la_la_land
+Gladiator,8.5,2000,"$103,000,000","$187,705,427",gladiator
+Spider-Man: Across the Spider-Verse,8.5,2023,"$100,000,000","$381,593,754",spider_man_across_the_spider_verse
+Manchester by the Sea,7.8,2016,"$9,000,000","$47,695,371",manchester_by_the_sea
+Little Women,7.8,2019,"$40,000,000","$108,101,214",little_women
+The Farewell,7.5,2019,"$3,000,000","$17,695,781",the_farewell
+Some Like It Hot,8.2,1959,"$2,883,848",N/A,some_like_it_hot
+2001: A Space Odyssey,8.3,1968,"$12,000,000","$60,481,243",2001_a_space_odyssey
+Saving Private Ryan,8.6,1998,"$70,000,000","$217,049,603",saving_private_ryan
+Once Upon a Time... in Hollywood,7.6,2019,"$90,000,000","$142,502,728",once_upon_a_time_in_hollywood
+12 Years a Slave,8.1,2013,"$20,000,000","$56,671,993",12_years_a_slave
+All About Eve,8.2,1950,"$1,400,000","$63,463",all_about_eve
+Top Gun: Maverick,8.2,2022,"$170,000,000","$718,732,821",top_gun_maverick
+Alien,8.5,1979,"$11,000,000","$84,206,106",alien
+Barry Lyndon,8.1,1975,"$11,000,000",N/A,barry_lyndon
+City of God,8.6,2002,"R$3,300,000","$7,564,459",city_of_god
+Dunkirk,7.8,2017,"$100,000,000","$189,740,665",dunkirk
+Full Metal Jacket,8.2,1987,"$30,000,000","$46,357,676",full_metal_jacket
+Terminator 2: Judgment Day,8.6,1991,"$102,000,000","$205,881,154",terminator_2_judgment_day
+Coco,8.4,2017,"$175,000,000","$210,460,015",coco
+The Usual Suspects,8.5,1995,"$6,000,000","$23,341,568",the_usual_suspects
+The Lives of Others,8.4,2006,"$2,000,000","$11,286,112",the_lives_of_others
+The Matrix,8.7,1999,"$63,000,000","$177,559,005",the_matrix
+The Lion King,8.5,1994,"$45,000,000","$424,979,720",the_lion_king
+Pulp Fiction,8.8,1994,"$8,000,000","$107,928,762",pulp_fiction
+Up,8.3,2009,"$175,000,000","$293,004,164",up
+Lady Bird,7.4,2017,"$10,000,000","$48,958,273",lady_bird
+Mulholland Drive,7.9,2001,"$15,000,000","$7,220,243",mulholland_drive
+The Dark Knight Rises,8.4,2012,"$250,000,000","$448,149,584",the_dark_knight_rises
+Requiem for a Dream,8.3,2000,"$4,500,000","$3,635,482",requiem_for_a_dream
+The Shining,8.4,1980,"$19,000,000","$47,194,352",the_shining
+Blade Runner 2049,8.0,2017,"$150,000,000","$92,071,675",blade_runner_2049
+Paddington 2,7.8,2017,"$40,000,000","$40,907,738",paddington_2
+Exit 8,6.4,2025,N/A,N/A,exit_8
+Ran,8.2,1985,"$11,500,000","$4,314,927",ran
+The Silence of the Lambs,8.6,1991,"$19,000,000","$130,742,922",the_silence_of_the_lambs
+Braveheart,8.3,1995,"$72,000,000","$75,609,945",braveheart
+Wild Strawberries,8.1,1957,N/A,N/A,wild_strawberries
+Oldboy,8.3,2003,"$3,000,000","$2,458,200",oldboy
+Minari,7.4,2020,"$2,000,000","$3,110,580",minari
+Seven Samurai,8.6,1954,"¥125,000,000","$820,278",seven_samurai
+Ben-Hur,8.1,1959,"$15,000,000","$74,432,704",ben_hur
+Casablanca,8.5,1942,"$950,000","$4,219,709",casablanca
+Avengers: Endgame,8.4,2019,"$356,000,000","$858,373,000",avengers_endgame
+Get Out,7.8,2017,"$4,500,000","$176,196,665",get_out
+Gravity,7.7,2013,"$100,000,000","$274,092,705",gravity
+Burning,7.4,2018,N/A,"$718,991",burning
+Goodfellas,8.7,1990,"$25,000,000","$46,909,721",goodfellas
+Anatomy of a Fall,7.6,2023,"€6,200,000","$5,076,369",anatomy_of_a_fall
+Touch of Evil,7.9,1958,"$829,000","$2,247,465",touch_of_evil
+Spotlight,8.1,2015,"$20,000,000","$45,055,776",spotlight
+Joker,8.3,2019,"$55,000,000","$335,477,657",joker
+Kill Bill: Vol. 1,8.2,2003,"$30,000,000","$70,099,045",kill_bill_vol_1
+Tár,7.4,2022,"$25,000,000","$6,773,650",tár
+American History X,8.5,1998,"$20,000,000","$6,719,864",american_history_x
+First Cow,7.1,2019,N/A,"$101,068",first_cow
+Rear Window,8.5,1954,"$1,000,000","$37,622,343",rear_window
+City Lights,8.5,1931,"$1,500,000","$19,181",city_lights
+"Aguirre, the Wrath of God",7.8,1972,"$370,000",N/A,aguirre_the_wrath_of_god
+American Beauty,8.3,1999,"$15,000,000","$130,096,601",american_beauty
+Back to the Future,8.5,1985,"$19,000,000","$222,476,852",back_to_the_future
+Arrival,7.9,2016,"$47,000,000","$100,546,139",arrival
+Star Wars: Episode V - The Empire Strikes Back,8.7,1980,"$18,000,000","$292,753,960",star_wars_episode_v_the_empire_strikes_back
+Marriage Story,7.9,2019,"$18,600,000",N/A,marriage_story
+Ikiru,8.3,1952,N/A,"$60,239",ikiru
+The Bridge on the River Kwai,8.1,1957,"$3,000,000","$27,200,000",the_bridge_on_the_river_kwai
+"The Good, the Bad and the Ugly",8.8,1966,"$1,200,000","$25,100,000",the_good_the_bad_and_the_ugly
+Hamilton,8.3,2020,N/A,"$16,946,377",hamilton
+Das Boot,8.3,1981,"DEM 32,000,000","$11,487,676",das_boot
+Toy Story 3,8.3,2010,"$200,000,000","$415,004,880",toy_story_3
+Stagecoach,7.8,1939,"$392,000",N/A,stagecoach
+The Godfather Part II,9.0,1974,"$13,000,000","$47,834,595",the_godfather_part_ii
+To Kill a Mockingbird,8.2,1962,"$2,000,000","$592,237",to_kill_a_mockingbird
