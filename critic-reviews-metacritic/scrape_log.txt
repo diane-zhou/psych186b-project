@@ -1,0 +1,1298 @@
+2026-03-15 23:06:33 | ERROR | ERROR | 'Shawshank Redemption' | Movie 'Shawshank Redemption' not found on Metacritic.
+2026-03-15 23:08:12 | ERROR | ERROR | 'Shawshank Redemption' | Movie 'Shawshank Redemption' not found on Metacritic.
+2026-03-15 23:11:14 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58906): Failed to establish a new connection: [Errno 61] Connection refused")': /session/fbe19792d808ba06544d5ae9f4071317
+2026-03-15 23:11:14 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58906): Failed to establish a new connection: [Errno 61] Connection refused")': /session/fbe19792d808ba06544d5ae9f4071317
+2026-03-15 23:11:14 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58906): Failed to establish a new connection: [Errno 61] Connection refused")': /session/fbe19792d808ba06544d5ae9f4071317
+2026-03-15 23:13:05 | INFO | OK | 'The Shawshank Redemption' saved to critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:16:15 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:16:31 | INFO | OK | 'The Shawshank Redemption' saved to critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:17:07 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:17:14 | INFO | OK | 'Parasite' saved to critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-15 23:17:17 | ERROR | ERROR | 'star wars episode v the empire strikes back' | Movie 'star wars episode v the empire strikes back' not found on Metacritic.
+2026-03-15 23:17:20 | INFO | OK | 'The Godfather' saved to critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-15 23:17:25 | INFO | OK | 'Top Gun: Maverick' saved to critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-15 23:17:30 | INFO | OK | 'The Godfather: Part II' saved to critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-15 23:17:41 | INFO | OK | 'Spider-Man: Into the Spider-Verse' saved to critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-15 23:17:46 | INFO | OK | 'Raiders of the Lost Ark' saved to critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-15 23:17:55 | INFO | OK | 'The Dark Knight' saved to critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-15 23:17:58 | ERROR | ERROR | 'Mission: Impossible - Dead Reckoning Part One' | Movie 'Mission: Impossible - Dead Reckoning Part One' not found on Metacritic.
+2026-03-15 23:18:01 | INFO | OK | '12 Angry Men' saved to critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-15 23:18:08 | INFO | OK | 'Pulp Fiction' saved to critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-15 23:18:15 | INFO | OK | 'Schindler's List' saved to critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-15 23:18:23 | INFO | OK | 'Mad Max: Fury Road' saved to critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-15 23:18:28 | INFO | OK | 'Harakiri' saved to critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-15 23:18:38 | INFO | OK | 'The Lord of the Rings: The Return of the King' saved to critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-15 23:18:45 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/3edad90a09a94637c33f35400ac030b7
+2026-03-15 23:18:45 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60335): Failed to establish a new connection: [Errno 61] Connection refused")': /session/3edad90a09a94637c33f35400ac030b7
+2026-03-15 23:18:45 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60335): Failed to establish a new connection: [Errno 61] Connection refused")': /session/3edad90a09a94637c33f35400ac030b7
+2026-03-15 23:19:41 | INFO | OK | 'The Shawshank Redemption' saved to critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:19:56 | INFO | OK | 'Parasite' saved to critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-15 23:19:59 | ERROR | ERROR | 'star wars episode v the empire strikes back' | Movie 'star wars episode v the empire strikes back' not found on Metacritic.
+2026-03-15 23:20:06 | INFO | OK | 'The Godfather' saved to critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-15 23:20:27 | INFO | OK | 'Top Gun: Maverick' saved to critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-15 23:20:38 | INFO | OK | 'The Godfather: Part II' saved to critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-15 23:20:53 | INFO | OK | 'Spider-Man: Into the Spider-Verse' saved to critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-15 23:21:01 | INFO | OK | 'Raiders of the Lost Ark' saved to critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-15 23:21:19 | INFO | OK | 'The Dark Knight' saved to critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-15 23:21:22 | ERROR | ERROR | 'Mission: Impossible - Dead Reckoning Part One' | Movie 'Mission: Impossible - Dead Reckoning Part One' not found on Metacritic.
+2026-03-15 23:21:29 | INFO | OK | '12 Angry Men' saved to critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-15 23:21:41 | INFO | OK | 'Pulp Fiction' saved to critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-15 23:21:53 | INFO | OK | 'Schindler's List' saved to critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-15 23:22:08 | INFO | OK | 'Mad Max: Fury Road' saved to critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-15 23:22:17 | INFO | OK | 'Harakiri' saved to critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-15 23:22:34 | INFO | OK | 'The Lord of the Rings: The Return of the King' saved to critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-15 23:22:52 | INFO | OK | 'Spirited Away' saved to critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-15 23:23:02 | INFO | OK | 'Ikiru' saved to critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-15 23:23:11 | INFO | OK | 'Inside Out' saved to critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-15 23:23:27 | INFO | OK | 'The Lord of the Rings: The Fellowship of the Ring' saved to critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-15 23:23:29 | ERROR | ERROR | 'Coco' | Movie 'Coco' not found on Metacritic.
+2026-03-15 23:23:39 | INFO | OK | 'Goodfellas' saved to critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-15 23:23:49 | INFO | OK | 'The Good, the Bad and the Ugly' saved to critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-15 23:24:04 | INFO | OK | 'Toy Story 3' saved to critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-15 23:24:13 | INFO | OK | 'Rear Window' saved to critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-15 23:24:26 | INFO | OK | 'Forrest Gump' saved to critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-15 23:24:41 | INFO | OK | 'Toy Story 4' saved to critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-15 23:24:51 | INFO | OK | 'City Lights' saved to critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-15 23:25:06 | INFO | OK | 'Fight Club' saved to critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-15 23:25:21 | INFO | OK | 'Finding Nemo' saved to critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-15 23:25:29 | ERROR | ERROR | 'Alien' | Movie 'Alien' not found on Metacritic.
+2026-03-15 23:25:42 | INFO | OK | 'The Lord of the Rings: The Two Towers' saved to critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-15 23:25:57 | INFO | OK | 'How to Train Your Dragon' saved to critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-15 23:26:06 | INFO | OK | 'The Silence of the Lambs' saved to critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-15 23:26:25 | INFO | OK | 'Inception' saved to critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-15 23:26:40 | INFO | OK | 'Up' saved to critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-15 23:26:53 | INFO | OK | 'The Shining' saved to critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-15 23:27:11 | INFO | OK | 'Star Trek' saved to critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-15 23:27:14 | ERROR | ERROR | 'Se7en' | Movie 'Se7en' not found on Metacritic.
+2026-03-15 23:30:00 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-15 23:30:00 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-15 23:30:01 | ERROR | ERROR | 'star wars episode v the empire strikes back' | Movie 'star wars episode v the empire strikes back' not found on Metacritic.
+2026-03-15 23:30:01 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-15 23:30:01 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-15 23:30:01 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-15 23:30:01 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-15 23:30:01 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-15 23:30:01 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-15 23:30:03 | ERROR | ERROR | 'Mission: Impossible - Dead Reckoning Part One' | Movie 'Mission: Impossible - Dead Reckoning Part One' not found on Metacritic.
+2026-03-15 23:30:03 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-15 23:30:03 | ERROR | ERROR | 'Coco' | Movie 'Coco' not found on Metacritic.
+2026-03-15 23:30:03 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-15 23:30:03 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-15 23:30:04 | ERROR | ERROR | 'Alien' | Movie 'Alien' not found on Metacritic.
+2026-03-15 23:30:04 | INFO | SKIP | 'The Lord of the Rings: The Two Towers' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'How to Train Your Dragon' already scraped at critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'The Silence of the Lambs' already scraped at critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'Inception' already scraped at critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'Up' already scraped at critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'The Shining' already scraped at critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-15 23:30:04 | INFO | SKIP | 'Star Trek' already scraped at critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-15 23:30:05 | ERROR | ERROR | 'Se7en' | Movie 'Se7en' not found on Metacritic.
+2026-03-15 23:30:19 | INFO | OK | 'The Matrix' saved to critic-reviews-metacritic/The Matrix-critic-reviews.csv
+2026-03-15 23:30:38 | INFO | OK | 'The Social Network' saved to critic-reviews-metacritic/The Social Network-critic-reviews.csv
+2026-03-15 23:30:50 | INFO | OK | 'The Apartment' saved to critic-reviews-metacritic/The Apartment-critic-reviews.csv
+2026-03-15 23:31:12 | INFO | OK | 'Eighth Grade' saved to critic-reviews-metacritic/Eighth Grade-critic-reviews.csv
+2026-03-15 23:31:22 | INFO | OK | 'Casablanca' saved to critic-reviews-metacritic/Casablanca-critic-reviews.csv
+2026-03-15 23:31:35 | INFO | OK | 'One Flew Over the Cuckoo's Nest' saved to critic-reviews-metacritic/One Flew Over the Cuckoo's Nest-critic-reviews.csv
+2026-03-15 23:31:53 | INFO | OK | 'Argo' saved to critic-reviews-metacritic/Argo-critic-reviews.csv
+2026-03-15 23:31:57 | ERROR | ERROR | 'Seven Samurai' | Movie 'Seven Samurai' not found on Metacritic.
+2026-03-15 23:32:13 | INFO | OK | 'Portrait of a Lady on Fire' saved to critic-reviews-metacritic/Portrait of a Lady on Fire-critic-reviews.csv
+2026-03-15 23:32:31 | INFO | OK | 'Hell or High Water' saved to critic-reviews-metacritic/Hell or High Water-critic-reviews.csv
+2026-03-15 23:32:40 | INFO | OK | 'It's a Wonderful Life' saved to critic-reviews-metacritic/It's a Wonderful Life-critic-reviews.csv
+2026-03-15 23:32:56 | INFO | OK | 'Memento' saved to critic-reviews-metacritic/Memento-critic-reviews.csv
+2026-03-15 23:33:08 | INFO | OK | 'Psycho' saved to critic-reviews-metacritic/Psycho-critic-reviews.csv
+2026-03-15 23:33:23 | INFO | OK | 'Spider-Man: No Way Home' saved to critic-reviews-metacritic/Spider-Man: No Way Home-critic-reviews.csv
+2026-03-15 23:33:32 | INFO | OK | 'Singin' in the Rain' saved to critic-reviews-metacritic/Singin' in the Rain-critic-reviews.csv
+2026-03-15 23:33:48 | INFO | OK | 'City of God' saved to critic-reviews-metacritic/City of God-critic-reviews.csv
+2026-03-15 23:34:06 | INFO | OK | 'The Farewell' saved to critic-reviews-metacritic/The Farewell-critic-reviews.csv
+2026-03-15 23:34:15 | INFO | OK | 'Apocalypse Now' saved to critic-reviews-metacritic/Apocalypse Now-critic-reviews.csv
+2026-03-15 23:34:31 | INFO | OK | 'Saving Private Ryan' saved to critic-reviews-metacritic/Saving Private Ryan-critic-reviews.csv
+2026-03-15 23:34:46 | INFO | OK | 'Whiplash' saved to critic-reviews-metacritic/Whiplash-critic-reviews.csv
+2026-03-15 23:34:49 | ERROR | ERROR | 'Vertigo' | Movie 'Vertigo' not found on Metacritic.
+2026-03-15 23:35:02 | INFO | OK | 'Life Is Beautiful' saved to critic-reviews-metacritic/Life Is Beautiful-critic-reviews.csv
+2026-03-15 23:35:14 | INFO | OK | 'Your Name' saved to critic-reviews-metacritic/Your Name-critic-reviews.csv
+2026-03-15 23:35:17 | ERROR | ERROR | 'Citizen Kane' | Movie 'Citizen Kane' not found on Metacritic.
+2026-03-15 23:35:30 | INFO | OK | 'The Green Mile' saved to critic-reviews-metacritic/The Green Mile-critic-reviews.csv
+2026-03-15 23:35:45 | INFO | OK | 'The Pianist' saved to critic-reviews-metacritic/The Pianist-critic-reviews.csv
+2026-03-15 23:35:48 | ERROR | ERROR | 'Taxi Driver' | Movie 'Taxi Driver' not found on Metacritic.
+2026-03-15 23:35:49 | ERROR | ERROR | 'Star Wars: A New Hope' | Movie 'Star Wars: A New Hope' not found on Metacritic.
+2026-03-15 23:35:50 | ERROR | ERROR | 'Harry Potter & Deathly Hallows Part 2' | Movie 'Harry Potter & Deathly Hallows Part 2' not found on Metacritic.
+2026-03-15 23:36:00 | INFO | OK | '2001: A Space Odyssey' saved to critic-reviews-metacritic/2001: A Space Odyssey-critic-reviews.csv
+2026-03-15 23:36:18 | INFO | OK | 'Interstellar' saved to critic-reviews-metacritic/Interstellar-critic-reviews.csv
+2026-03-15 23:36:34 | INFO | OK | 'Spider-Man: Across the Spider-Verse' saved to critic-reviews-metacritic/Spider-Man: Across the Spider-Verse-critic-reviews.csv
+2026-03-15 23:36:36 | ERROR | ERROR | 'Dr. Strangelove' | Movie 'Dr. Strangelove' not found on Metacritic.
+2026-03-15 23:36:47 | INFO | OK | 'Terminator 2: Judgment Day' saved to critic-reviews-metacritic/Terminator 2: Judgment Day-critic-reviews.csv
+2026-03-15 23:37:05 | INFO | OK | 'Get Out' saved to critic-reviews-metacritic/Get Out-critic-reviews.csv
+2026-03-15 23:37:14 | INFO | OK | 'Double Indemnity' saved to critic-reviews-metacritic/Double Indemnity-critic-reviews.csv
+2026-03-15 23:37:27 | INFO | OK | 'Back to the Future' saved to critic-reviews-metacritic/Back to the Future-critic-reviews.csv
+2026-03-15 23:37:42 | INFO | OK | 'Selma' saved to critic-reviews-metacritic/Selma-critic-reviews.csv
+2026-03-15 23:37:54 | INFO | OK | 'Raging Bull' saved to critic-reviews-metacritic/Raging Bull-critic-reviews.csv
+2026-03-15 23:38:03 | INFO | OK | 'Moonlight' saved to critic-reviews-metacritic/Moonlight-critic-reviews.csv
+2026-03-15 23:38:15 | INFO | OK | 'Chinatown' saved to critic-reviews-metacritic/Chinatown-critic-reviews.csv
+2026-03-15 23:38:31 | INFO | OK | 'Lady Bird' saved to critic-reviews-metacritic/Lady Bird-critic-reviews.csv
+2026-03-15 23:38:34 | ERROR | ERROR | 'Lawrence of Arabia' | Movie 'Lawrence of Arabia' not found on Metacritic.
+2026-03-15 23:38:47 | INFO | OK | 'Dunkirk' saved to critic-reviews-metacritic/Dunkirk-critic-reviews.csv
+2026-03-15 23:39:03 | INFO | OK | 'Paddington 2' saved to critic-reviews-metacritic/Paddington 2-critic-reviews.csv
+2026-03-15 23:39:15 | INFO | OK | 'Jaws' saved to critic-reviews-metacritic/Jaws-critic-reviews.csv
+2026-03-15 23:39:18 | ERROR | ERROR | 'Leon: The Professional' | Movie 'Leon: The Professional' not found on Metacritic.
+2026-03-15 23:39:31 | INFO | OK | 'Black Panther' saved to critic-reviews-metacritic/Black Panther-critic-reviews.csv
+2026-03-15 23:39:40 | INFO | OK | 'Some Like It Hot' saved to critic-reviews-metacritic/Some Like It Hot-critic-reviews.csv
+2026-03-15 23:39:52 | INFO | OK | 'The Lion King' saved to critic-reviews-metacritic/The Lion King-critic-reviews.csv
+2026-03-15 23:40:04 | INFO | OK | 'In the Mood for Love' saved to critic-reviews-metacritic/In the Mood for Love-critic-reviews.csv
+2026-03-15 23:40:14 | INFO | OK | 'Paths of Glory' saved to critic-reviews-metacritic/Paths of Glory-critic-reviews.csv
+2026-03-15 23:40:32 | INFO | OK | 'Gladiator' saved to critic-reviews-metacritic/Gladiator-critic-reviews.csv
+2026-03-15 23:40:47 | INFO | OK | 'Arrival' saved to critic-reviews-metacritic/Arrival-critic-reviews.csv
+2026-03-15 23:41:03 | INFO | OK | 'American History X' saved to critic-reviews-metacritic/American History X-critic-reviews.csv
+2026-03-15 23:41:18 | INFO | OK | 'Inside Llewyn Davis' saved to critic-reviews-metacritic/Inside Llewyn Davis-critic-reviews.csv
+2026-03-15 23:41:30 | INFO | OK | 'Toy Story' saved to critic-reviews-metacritic/Toy Story-critic-reviews.csv
+2026-03-15 23:41:46 | INFO | OK | 'The Departed' saved to critic-reviews-metacritic/The Departed-critic-reviews.csv
+2026-03-15 23:42:01 | INFO | OK | 'Marriage Story' saved to critic-reviews-metacritic/Marriage Story-critic-reviews.csv
+2026-03-15 23:42:16 | INFO | OK | 'The Prestige' saved to critic-reviews-metacritic/The Prestige-critic-reviews.csv
+2026-03-15 23:42:35 | INFO | OK | 'Anatomy of a Fall' saved to critic-reviews-metacritic/Anatomy of a Fall-critic-reviews.csv
+2026-03-15 23:42:47 | INFO | OK | 'The Third Man' saved to critic-reviews-metacritic/The Third Man-critic-reviews.csv
+2026-03-15 23:43:02 | INFO | OK | 'Boyhood' saved to critic-reviews-metacritic/Boyhood-critic-reviews.csv
+2026-03-15 23:43:05 | ERROR | ERROR | 'The Wizard of Oz' | Movie 'The Wizard of Oz' not found on Metacritic.
+2026-03-15 23:43:15 | INFO | OK | 'The Usual Suspects' saved to critic-reviews-metacritic/The Usual Suspects-critic-reviews.csv
+2026-03-15 23:43:34 | INFO | OK | 'Gravity' saved to critic-reviews-metacritic/Gravity-critic-reviews.csv
+2026-03-15 23:43:49 | INFO | OK | 'Roma' saved to critic-reviews-metacritic/Roma-critic-reviews.csv
+2026-03-15 23:43:52 | ERROR | ERROR | 'Grave of the Fireflies' | Movie 'Grave of the Fireflies' not found on Metacritic.
+2026-03-15 23:44:05 | INFO | OK | 'The Holdovers' saved to critic-reviews-metacritic/The Holdovers-critic-reviews.csv
+2026-03-15 23:44:14 | INFO | OK | 'Rashomon' saved to critic-reviews-metacritic/Rashomon-critic-reviews.csv
+2026-03-15 23:44:30 | INFO | OK | 'Everything Everywhere All at Once' saved to critic-reviews-metacritic/Everything Everywhere All at Once-critic-reviews.csv
+2026-03-15 23:44:39 | INFO | OK | 'North by Northwest' saved to critic-reviews-metacritic/North by Northwest-critic-reviews.csv
+2026-03-15 23:44:54 | INFO | OK | 'The Intouchables' saved to critic-reviews-metacritic/The Intouchables-critic-reviews.csv
+2026-03-15 23:45:12 | INFO | OK | 'Minari' saved to critic-reviews-metacritic/Minari-critic-reviews.csv
+2026-03-15 23:45:22 | INFO | OK | 'Blade Runner' saved to critic-reviews-metacritic/Blade Runner-critic-reviews.csv
+2026-03-15 23:45:25 | ERROR | ERROR | 'Modern Times' | Movie 'Modern Times' not found on Metacritic.
+2026-03-15 23:45:38 | INFO | OK | 'Past Lives' saved to critic-reviews-metacritic/Past Lives-critic-reviews.csv
+2026-03-15 23:45:48 | INFO | OK | 'Blue Velvet' saved to critic-reviews-metacritic/Blue Velvet-critic-reviews.csv
+2026-03-15 23:45:57 | INFO | OK | 'Once Upon a Time in the West' saved to critic-reviews-metacritic/Once Upon a Time in the West-critic-reviews.csv
+2026-03-15 23:46:15 | INFO | OK | 'Carol' saved to critic-reviews-metacritic/Carol-critic-reviews.csv
+2026-03-15 23:46:18 | ERROR | ERROR | '8-12' | Movie '8-12' not found on Metacritic.
+2026-03-15 23:46:31 | INFO | OK | 'If Beale Street Could Talk' saved to critic-reviews-metacritic/If Beale Street Could Talk-critic-reviews.csv
+2026-03-15 23:46:40 | INFO | OK | 'On the Waterfront' saved to critic-reviews-metacritic/On the Waterfront-critic-reviews.csv
+2026-03-15 23:46:52 | INFO | OK | 'Cinema Paradiso' saved to critic-reviews-metacritic/Cinema Paradiso-critic-reviews.csv
+2026-03-15 23:47:11 | INFO | OK | 'First Cow' saved to critic-reviews-metacritic/First Cow-critic-reviews.csv
+2026-03-15 23:47:23 | INFO | OK | 'Amadeus' saved to critic-reviews-metacritic/Amadeus-critic-reviews.csv
+2026-03-15 23:47:39 | INFO | OK | 'Call Me by Your Name' saved to critic-reviews-metacritic/Call Me by Your Name-critic-reviews.csv
+2026-03-15 23:47:57 | INFO | OK | 'Do the Right Thing' saved to critic-reviews-metacritic/Do the Right Thing-critic-reviews.csv
+2026-03-15 23:48:12 | INFO | OK | 'Widows' saved to critic-reviews-metacritic/Widows-critic-reviews.csv
+2026-03-15 23:48:24 | INFO | OK | 'Ran' saved to critic-reviews-metacritic/Ran-critic-reviews.csv
+2026-03-15 23:48:39 | INFO | OK | '12 Years a Slave' saved to critic-reviews-metacritic/12 Years a Slave-critic-reviews.csv
+2026-03-15 23:48:42 | ERROR | ERROR | 'Metropolis' | Movie 'Metropolis' not found on Metacritic.
+2026-03-15 23:48:58 | INFO | OK | 'The Wolf of Wall Street' saved to critic-reviews-metacritic/The Wolf of Wall Street-critic-reviews.csv
+2026-03-15 23:49:14 | INFO | OK | 'Unforgiven' saved to critic-reviews-metacritic/Unforgiven-critic-reviews.csv
+2026-03-15 23:49:30 | INFO | OK | 'Shoplifters' saved to critic-reviews-metacritic/Shoplifters-critic-reviews.csv
+2026-03-15 23:49:48 | INFO | OK | 'Django Unchained' saved to critic-reviews-metacritic/Django Unchained-critic-reviews.csv
+2026-03-15 23:50:06 | INFO | OK | 'Brooklyn' saved to critic-reviews-metacritic/Brooklyn-critic-reviews.csv
+2026-03-15 23:50:19 | INFO | OK | 'Touch of Evil' saved to critic-reviews-metacritic/Touch of Evil-critic-reviews.csv
+2026-03-15 23:50:37 | INFO | OK | 'Won't You Be My Neighbor?' saved to critic-reviews-metacritic/Won't You Be My Neighbor?-critic-reviews.csv
+2026-03-15 23:50:52 | INFO | OK | 'The Lives of Others' saved to critic-reviews-metacritic/The Lives of Others-critic-reviews.csv
+2026-03-15 23:51:07 | INFO | OK | 'The Favourite' saved to critic-reviews-metacritic/The Favourite-critic-reviews.csv
+2026-03-15 23:51:16 | INFO | OK | 'Stalker' saved to critic-reviews-metacritic/Stalker-critic-reviews.csv
+2026-03-15 23:51:19 | ERROR | ERROR | 'Sunset Blvd.' | Movie 'Sunset Blvd.' not found on Metacritic.
+2026-03-15 23:51:36 | INFO | OK | 'A Separation' saved to critic-reviews-metacritic/A Separation-critic-reviews.csv
+2026-03-15 23:51:39 | ERROR | ERROR | 'Annie Hall' | Movie 'Annie Hall' not found on Metacritic.
+2026-03-15 23:51:52 | INFO | OK | 'Little Women (2019)' saved to critic-reviews-metacritic/Little Women (2019)-critic-reviews.csv
+2026-03-15 23:52:08 | INFO | OK | 'Phantom Thread' saved to critic-reviews-metacritic/Phantom Thread-critic-reviews.csv
+2026-03-15 23:52:20 | INFO | OK | 'Great Expectations' saved to critic-reviews-metacritic/Great Expectations-critic-reviews.csv
+2026-03-15 23:52:23 | ERROR | ERROR | 'The Great Dictator' | Movie 'The Great Dictator' not found on Metacritic.
+2026-03-15 23:52:30 | INFO | OK | 'Tar' saved to critic-reviews-metacritic/Tar-critic-reviews.csv
+2026-03-15 23:52:33 | ERROR | ERROR | 'The General' | Movie 'The General' not found on Metacritic.
+2026-03-15 23:52:40 | INFO | OK | 'Witness for the Prosecution' saved to critic-reviews-metacritic/Witness for the Prosecution-critic-reviews.csv
+2026-03-15 23:52:55 | INFO | OK | 'Before Sunset' saved to critic-reviews-metacritic/Before Sunset-critic-reviews.csv
+2026-03-15 23:52:58 | ERROR | ERROR | 'Butch Cassidy & Sundance Kid' | Movie 'Butch Cassidy & Sundance Kid' not found on Metacritic.
+2026-03-15 23:53:11 | INFO | OK | 'Avengers: Infinity War' saved to critic-reviews-metacritic/Avengers: Infinity War-critic-reviews.csv
+2026-03-15 23:53:26 | INFO | OK | 'The Shape of Water' saved to critic-reviews-metacritic/The Shape of Water-critic-reviews.csv
+2026-03-15 23:53:36 | INFO | OK | 'To Kill a Mockingbird' saved to critic-reviews-metacritic/To Kill a Mockingbird-critic-reviews.csv
+2026-03-15 23:53:48 | INFO | OK | 'Aliens' saved to critic-reviews-metacritic/Aliens-critic-reviews.csv
+2026-03-15 23:54:03 | INFO | OK | 'The Handmaiden' saved to critic-reviews-metacritic/The Handmaiden-critic-reviews.csv
+2026-03-15 23:54:12 | INFO | OK | 'Stagecoach' saved to critic-reviews-metacritic/Stagecoach-critic-reviews.csv
+2026-03-15 23:54:28 | INFO | OK | 'American Beauty' saved to critic-reviews-metacritic/American Beauty-critic-reviews.csv
+2026-03-15 23:54:43 | INFO | OK | 'Manchester by the Sea' saved to critic-reviews-metacritic/Manchester by the Sea-critic-reviews.csv
+2026-03-15 23:54:52 | INFO | OK | 'All About Eve' saved to critic-reviews-metacritic/All About Eve-critic-reviews.csv
+2026-03-15 23:55:07 | INFO | OK | 'Once Upon a Time in Hollywood' saved to critic-reviews-metacritic/Once Upon a Time in Hollywood-critic-reviews.csv
+2026-03-15 23:55:23 | INFO | OK | 'Burning' saved to critic-reviews-metacritic/Burning-critic-reviews.csv
+2026-03-15 23:55:35 | INFO | OK | 'Fargo' saved to critic-reviews-metacritic/Fargo-critic-reviews.csv
+2026-03-15 23:55:50 | INFO | OK | 'Oldboy' saved to critic-reviews-metacritic/Oldboy-critic-reviews.csv
+2026-03-15 23:56:09 | INFO | OK | 'Under the Skin' saved to critic-reviews-metacritic/Under the Skin-critic-reviews.csv
+2026-03-15 23:56:11 | ERROR | ERROR | 'The 400 Blows' | Movie 'The 400 Blows' not found on Metacritic.
+2026-03-15 23:56:25 | INFO | OK | 'Princess Mononoke' saved to critic-reviews-metacritic/Princess Mononoke-critic-reviews.csv
+2026-03-15 23:56:43 | INFO | OK | 'Her' saved to critic-reviews-metacritic/Her-critic-reviews.csv
+2026-03-15 23:56:46 | ERROR | ERROR | 'Dark Knight Rises' | Movie 'Dark Knight Rises' not found on Metacritic.
+2026-03-15 23:56:59 | INFO | OK | 'No Country for Old Men' saved to critic-reviews-metacritic/No Country for Old Men-critic-reviews.csv
+2026-03-15 23:57:14 | INFO | OK | 'Ben-Hur' saved to critic-reviews-metacritic/Ben-Hur-critic-reviews.csv
+2026-03-15 23:57:32 | INFO | OK | 'The Grand Budapest Hotel' saved to critic-reviews-metacritic/The Grand Budapest Hotel-critic-reviews.csv
+2026-03-15 23:57:41 | INFO | OK | 'Bonnie and Clyde' saved to critic-reviews-metacritic/Bonnie and Clyde-critic-reviews.csv
+2026-03-15 23:57:57 | INFO | OK | 'La La Land' saved to critic-reviews-metacritic/La La Land-critic-reviews.csv
+2026-03-15 23:58:00 | ERROR | ERROR | 'Beauty and the Beast' | Movie 'Beauty and the Beast' not found on Metacritic.
+2026-03-15 23:58:07 | INFO | OK | 'Braveheart' saved to critic-reviews-metacritic/Braveheart-critic-reviews.csv
+2026-03-15 23:58:10 | ERROR | ERROR | 'Birdman' | Movie 'Birdman' not found on Metacritic.
+2026-03-15 23:58:17 | INFO | OK | 'Breathless' saved to critic-reviews-metacritic/Breathless-critic-reviews.csv
+2026-03-15 23:58:33 | INFO | OK | 'Joker' saved to critic-reviews-metacritic/Joker-critic-reviews.csv
+2026-03-15 23:58:51 | INFO | OK | 'Spotlight' saved to critic-reviews-metacritic/Spotlight-critic-reviews.csv
+2026-03-15 23:58:54 | ERROR | ERROR | 'Bicycle Thieves' | Movie 'Bicycle Thieves' not found on Metacritic.
+2026-03-15 23:59:11 | INFO | OK | 'Ex Machina' saved to critic-reviews-metacritic/Ex Machina-critic-reviews.csv
+2026-03-15 23:59:23 | INFO | OK | 'O Brother, Where Art Thou?' saved to critic-reviews-metacritic/O Brother, Where Art Thou?-critic-reviews.csv
+2026-03-15 23:59:38 | INFO | OK | 'Notorious' saved to critic-reviews-metacritic/Notorious-critic-reviews.csv
+2026-03-15 23:59:47 | INFO | OK | 'Das Boot' saved to critic-reviews-metacritic/Das Boot-critic-reviews.csv
+2026-03-15 23:59:50 | ERROR | ERROR | 'Mulholland Drive' | Movie 'Mulholland Drive' not found on Metacritic.
+2026-03-15 23:59:57 | INFO | OK | 'The Searchers' saved to critic-reviews-metacritic/The Searchers-critic-reviews.csv
+2026-03-16 00:00:14 | INFO | OK | 'Inglourious Basterds' saved to critic-reviews-metacritic/Inglourious Basterds-critic-reviews.csv
+2026-03-16 00:00:29 | INFO | OK | 'Pan's Labyrinth' saved to critic-reviews-metacritic/Pan's Labyrinth-critic-reviews.csv
+2026-03-16 00:00:38 | INFO | OK | 'Hamilton' saved to critic-reviews-metacritic/Hamilton-critic-reviews.csv
+2026-03-16 00:00:41 | ERROR | ERROR | 'Amélie' | Movie 'Amélie' not found on Metacritic.
+2026-03-16 00:00:48 | INFO | OK | 'Come and See' saved to critic-reviews-metacritic/Come and See-critic-reviews.csv
+2026-03-16 00:00:57 | INFO | OK | '3 Idiots' saved to critic-reviews-metacritic/3 Idiots-critic-reviews.csv
+2026-03-16 00:01:12 | INFO | OK | 'Million Dollar Baby' saved to critic-reviews-metacritic/Million Dollar Baby-critic-reviews.csv
+2026-03-16 00:01:22 | INFO | OK | 'The Bridge on the River Kwai' saved to critic-reviews-metacritic/The Bridge on the River Kwai-critic-reviews.csv
+2026-03-16 00:01:40 | INFO | OK | 'Brokeback Mountain' saved to critic-reviews-metacritic/Brokeback Mountain-critic-reviews.csv
+2026-03-16 00:01:52 | INFO | OK | 'A Clockwork Orange' saved to critic-reviews-metacritic/A Clockwork Orange-critic-reviews.csv
+2026-03-16 00:02:01 | INFO | OK | 'The Sting' saved to critic-reviews-metacritic/The Sting-critic-reviews.csv
+2026-03-16 00:02:20 | INFO | OK | 'The Master' saved to critic-reviews-metacritic/The Master-critic-reviews.csv
+2026-03-16 00:02:29 | INFO | OK | 'Wild Strawberries' saved to critic-reviews-metacritic/Wild Strawberries-critic-reviews.csv
+2026-03-16 00:02:41 | INFO | OK | 'Good Will Hunting' saved to critic-reviews-metacritic/Good Will Hunting-critic-reviews.csv
+2026-03-16 00:02:56 | INFO | OK | 'Blade Runner 2049' saved to critic-reviews-metacritic/Blade Runner 2049-critic-reviews.csv
+2026-03-16 00:02:59 | ERROR | ERROR | 'High Noon' | Movie 'High Noon' not found on Metacritic.
+2026-03-16 00:03:12 | INFO | OK | 'Requiem for a Dream' saved to critic-reviews-metacritic/Requiem for a Dream-critic-reviews.csv
+2026-03-16 00:03:21 | INFO | OK | 'The Deer Hunter' saved to critic-reviews-metacritic/The Deer Hunter-critic-reviews.csv
+2026-03-16 00:03:36 | INFO | OK | 'Inside Out 2' saved to critic-reviews-metacritic/Inside Out 2-critic-reviews.csv
+2026-03-16 00:03:55 | INFO | OK | 'Eternal Sunshine of the Spotless Mind' saved to critic-reviews-metacritic/Eternal Sunshine of the Spotless Mind-critic-reviews.csv
+2026-03-16 00:04:10 | INFO | OK | 'Avengers: Endgame' saved to critic-reviews-metacritic/Avengers: Endgame-critic-reviews.csv
+2026-03-16 00:04:19 | INFO | OK | 'Manhattan' saved to critic-reviews-metacritic/Manhattan-critic-reviews.csv
+2026-03-16 00:04:35 | INFO | OK | 'Wall-E' saved to critic-reviews-metacritic/Wall-E-critic-reviews.csv
+2026-03-16 00:04:44 | INFO | OK | 'The Great Escape' saved to critic-reviews-metacritic/The Great Escape-critic-reviews.csv
+2026-03-16 00:04:59 | INFO | OK | 'John Wick' saved to critic-reviews-metacritic/John Wick-critic-reviews.csv
+2026-03-16 00:05:12 | INFO | OK | 'LA Confidential' saved to critic-reviews-metacritic/LA Confidential-critic-reviews.csv
+2026-03-16 00:05:21 | INFO | OK | 'Full Metal Jacket' saved to critic-reviews-metacritic/Full Metal Jacket-critic-reviews.csv
+2026-03-16 00:05:36 | INFO | OK | 'The Zone of Interest' saved to critic-reviews-metacritic/The Zone of Interest-critic-reviews.csv
+2026-03-16 00:05:39 | ERROR | ERROR | 'Aguirre, the Wrath of God' | Movie 'Aguirre, the Wrath of God' not found on Metacritic.
+2026-03-16 00:05:55 | INFO | OK | 'Decision to Leave' saved to critic-reviews-metacritic/Decision to Leave-critic-reviews.csv
+2026-03-16 00:06:05 | INFO | OK | 'Strangers on a Train' saved to critic-reviews-metacritic/Strangers on a Train-critic-reviews.csv
+2026-03-16 00:06:14 | INFO | OK | 'The Maltese Falcon' saved to critic-reviews-metacritic/The Maltese Falcon-critic-reviews.csv
+2026-03-16 00:06:29 | INFO | OK | 'Poor Things' saved to critic-reviews-metacritic/Poor Things-critic-reviews.csv
+2026-03-16 00:06:41 | INFO | OK | 'Heat' saved to critic-reviews-metacritic/Heat-critic-reviews.csv
+2026-03-16 00:06:54 | INFO | OK | 'Reservoir Dogs' saved to critic-reviews-metacritic/Reservoir Dogs-critic-reviews.csv
+2026-03-16 00:07:12 | INFO | OK | 'Kill Bill: Vol 1' saved to critic-reviews-metacritic/Kill Bill: Vol 1-critic-reviews.csv
+2026-03-16 00:07:24 | INFO | OK | 'Barry Lyndon' saved to critic-reviews-metacritic/Barry Lyndon-critic-reviews.csv
+2026-03-16 00:07:39 | INFO | OK | 'The Iron Claw' saved to critic-reviews-metacritic/The Iron Claw-critic-reviews.csv
+2026-03-16 00:07:49 | INFO | OK | 'Platoon' saved to critic-reviews-metacritic/Platoon-critic-reviews.csv
+2026-03-16 00:08:04 | INFO | OK | 'Godzilla Minus One' saved to critic-reviews-metacritic/Godzilla Minus One-critic-reviews.csv
+2026-03-16 00:08:16 | INFO | OK | 'Seven' saved to critic-reviews-metacritic/Seven-critic-reviews.csv
+2026-03-16 00:08:28 | INFO | OK | 'Hunt for the Wilderpeople' saved to critic-reviews-metacritic/Hunt for the Wilderpeople-critic-reviews.csv
+2026-03-16 00:08:47 | INFO | OK | 'Bottoms' saved to critic-reviews-metacritic/Bottoms-critic-reviews.csv
+2026-03-16 00:08:56 | INFO | OK | 'The Wild Bunch' saved to critic-reviews-metacritic/The Wild Bunch-critic-reviews.csv
+2026-03-16 00:09:11 | INFO | OK | '1917' saved to critic-reviews-metacritic/1917-critic-reviews.csv
+2026-03-16 00:09:27 | INFO | OK | 'Oppenheimer' saved to critic-reviews-metacritic/Oppenheimer-critic-reviews.csv
+2026-03-16 00:09:42 | INFO | OK | 'Rebecca' saved to critic-reviews-metacritic/Rebecca-critic-reviews.csv
+2026-03-16 00:09:57 | INFO | OK | 'Talk to Me' saved to critic-reviews-metacritic/Talk to Me-critic-reviews.csv
+2026-03-16 00:10:06 | INFO | OK | 'The Treasure of the Sierra Madre' saved to critic-reviews-metacritic/The Treasure of the Sierra Madre-critic-reviews.csv
+2026-03-16 00:10:22 | INFO | OK | 'The Wrestler' saved to critic-reviews-metacritic/The Wrestler-critic-reviews.csv
+2026-03-16 00:10:30 | INFO | OK | 'Dog Day Afternoon' saved to critic-reviews-metacritic/Dog Day Afternoon-critic-reviews.csv
+2026-03-16 00:10:45 | WARNING | Scrape finished with 33 problematic movies: star wars episode v the empire strikes back, Mission: Impossible - Dead Reckoning Part One, Coco, Alien, Se7en, Seven Samurai, Vertigo, Citizen Kane, Taxi Driver, Star Wars: A New Hope, Harry Potter & Deathly Hallows Part 2, Dr. Strangelove, Lawrence of Arabia, Leon: The Professional, The Wizard of Oz, Grave of the Fireflies, Modern Times, 8-12, Metropolis, Sunset Blvd., Annie Hall, The Great Dictator, The General, Butch Cassidy & Sundance Kid, The 400 Blows, Dark Knight Rises, Beauty and the Beast, Birdman, Bicycle Thieves, Mulholland Drive, Amélie, High Noon, Aguirre, the Wrath of God
+2026-03-16 00:19:32 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-16 00:19:32 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-16 00:19:35 | ERROR | ERROR | 'Star Wars: Episode V - The Empire Strikes Back' | Movie 'Star Wars: Episode V - The Empire Strikes Back' not found on Metacritic. Tried with and without year (1980).
+2026-03-16 00:19:35 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-16 00:19:35 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-16 00:19:35 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-16 00:19:35 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-16 00:19:35 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-16 00:19:35 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-16 00:19:48 | INFO | OK | 'Mission: Impossible Dead Reckoning' saved to critic-reviews-metacritic/Mission: Impossible Dead Reckoning-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-16 00:19:50 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-16 00:20:16 | INFO | OK | 'Coco' saved to critic-reviews-metacritic/Coco-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-16 00:20:18 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-16 00:20:57 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-16 00:20:57 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-16 00:21:00 | ERROR | ERROR | 'Star Wars: Episode V - The Empire Strikes Back' | Movie 'Star Wars: Episode V - The Empire Strikes Back' not found on Metacritic. Tried with and without year (1980).
+2026-03-16 00:21:00 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Mission: Impossible Dead Reckoning' already scraped at critic-reviews-metacritic/Mission: Impossible Dead Reckoning-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Coco' already scraped at critic-reviews-metacritic/Coco-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-16 00:21:00 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-16 00:21:14 | INFO | OK | 'Alien' saved to critic-reviews-metacritic/Alien-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Lord of the Rings: The Two Towers' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'How to Train Your Dragon' already scraped at critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Silence of the Lambs' already scraped at critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Inception' already scraped at critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Up' already scraped at critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Shining' already scraped at critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Star Trek' already scraped at critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Seven' already scraped at critic-reviews-metacritic/Seven-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Matrix' already scraped at critic-reviews-metacritic/The Matrix-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Social Network' already scraped at critic-reviews-metacritic/The Social Network-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'The Apartment' already scraped at critic-reviews-metacritic/The Apartment-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Eighth Grade' already scraped at critic-reviews-metacritic/Eighth Grade-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Casablanca' already scraped at critic-reviews-metacritic/Casablanca-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'One Flew Over the Cuckoo's Nest' already scraped at critic-reviews-metacritic/One Flew Over the Cuckoo's Nest-critic-reviews.csv
+2026-03-16 00:21:16 | INFO | SKIP | 'Argo' already scraped at critic-reviews-metacritic/Argo-critic-reviews.csv
+2026-03-16 00:21:24 | INFO | OK | 'Seven Samurai' saved to critic-reviews-metacritic/Seven Samurai-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Portrait of a Lady on Fire' already scraped at critic-reviews-metacritic/Portrait of a Lady on Fire-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Hell or High Water' already scraped at critic-reviews-metacritic/Hell or High Water-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'It's a Wonderful Life' already scraped at critic-reviews-metacritic/It's a Wonderful Life-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Memento' already scraped at critic-reviews-metacritic/Memento-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Psycho' already scraped at critic-reviews-metacritic/Psycho-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Spider-Man: No Way Home' already scraped at critic-reviews-metacritic/Spider-Man: No Way Home-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Singin' in the Rain' already scraped at critic-reviews-metacritic/Singin' in the Rain-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'City of God' already scraped at critic-reviews-metacritic/City of God-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'The Farewell' already scraped at critic-reviews-metacritic/The Farewell-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Apocalypse Now' already scraped at critic-reviews-metacritic/Apocalypse Now-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Saving Private Ryan' already scraped at critic-reviews-metacritic/Saving Private Ryan-critic-reviews.csv
+2026-03-16 00:21:26 | INFO | SKIP | 'Whiplash' already scraped at critic-reviews-metacritic/Whiplash-critic-reviews.csv
+2026-03-16 00:21:46 | INFO | OK | 'Vertigo' saved to critic-reviews-metacritic/Vertigo-critic-reviews.csv
+2026-03-16 00:21:48 | INFO | SKIP | 'Life Is Beautiful' already scraped at critic-reviews-metacritic/Life Is Beautiful-critic-reviews.csv
+2026-03-16 00:21:48 | INFO | SKIP | 'Your Name' already scraped at critic-reviews-metacritic/Your Name-critic-reviews.csv
+2026-03-16 00:21:58 | INFO | OK | 'Citizen Kane' saved to critic-reviews-metacritic/Citizen Kane-critic-reviews.csv
+2026-03-16 00:22:00 | INFO | SKIP | 'The Green Mile' already scraped at critic-reviews-metacritic/The Green Mile-critic-reviews.csv
+2026-03-16 00:22:00 | INFO | SKIP | 'The Pianist' already scraped at critic-reviews-metacritic/The Pianist-critic-reviews.csv
+2026-03-16 00:22:11 | INFO | OK | 'Taxi Driver' saved to critic-reviews-metacritic/Taxi Driver-critic-reviews.csv
+2026-03-16 00:22:15 | ERROR | ERROR | 'Star Wars: A New Hope' | Movie 'Star Wars: A New Hope' not found on Metacritic. Tried with and without year (1977).
+2026-03-16 00:22:17 | ERROR | ERROR | 'Harry Potter & Deathly Hallows Part 2' | Movie 'Harry Potter & Deathly Hallows Part 2' not found on Metacritic. Tried with and without year (2011).
+2026-03-16 00:22:17 | INFO | SKIP | '2001: A Space Odyssey' already scraped at critic-reviews-metacritic/2001: A Space Odyssey-critic-reviews.csv
+2026-03-16 00:22:17 | INFO | SKIP | 'Interstellar' already scraped at critic-reviews-metacritic/Interstellar-critic-reviews.csv
+2026-03-16 00:22:17 | INFO | SKIP | 'Spider-Man: Across the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Across the Spider-Verse-critic-reviews.csv
+2026-03-16 00:22:18 | ERROR | ERROR | 'Dr. Strangelove' | Movie 'Dr. Strangelove' not found on Metacritic. Tried with and without year (1964).
+2026-03-16 00:22:18 | INFO | SKIP | 'Terminator 2: Judgment Day' already scraped at critic-reviews-metacritic/Terminator 2: Judgment Day-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Get Out' already scraped at critic-reviews-metacritic/Get Out-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Double Indemnity' already scraped at critic-reviews-metacritic/Double Indemnity-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Back to the Future' already scraped at critic-reviews-metacritic/Back to the Future-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Selma' already scraped at critic-reviews-metacritic/Selma-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Raging Bull' already scraped at critic-reviews-metacritic/Raging Bull-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Moonlight' already scraped at critic-reviews-metacritic/Moonlight-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Chinatown' already scraped at critic-reviews-metacritic/Chinatown-critic-reviews.csv
+2026-03-16 00:22:18 | INFO | SKIP | 'Lady Bird' already scraped at critic-reviews-metacritic/Lady Bird-critic-reviews.csv
+2026-03-16 00:22:20 | ERROR | ERROR | 'Lawrence of Arabia' | Movie 'Lawrence of Arabia' not found on Metacritic. Tried with and without year (1962).
+2026-03-16 00:22:20 | INFO | SKIP | 'Dunkirk' already scraped at critic-reviews-metacritic/Dunkirk-critic-reviews.csv
+2026-03-16 00:22:20 | INFO | SKIP | 'Paddington 2' already scraped at critic-reviews-metacritic/Paddington 2-critic-reviews.csv
+2026-03-16 00:22:20 | INFO | SKIP | 'Jaws' already scraped at critic-reviews-metacritic/Jaws-critic-reviews.csv
+2026-03-16 00:22:21 | ERROR | ERROR | 'Leon: The Professional' | Movie 'Leon: The Professional' not found on Metacritic. Tried with and without year (1994).
+2026-03-16 00:22:21 | INFO | SKIP | 'Black Panther' already scraped at critic-reviews-metacritic/Black Panther-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Some Like It Hot' already scraped at critic-reviews-metacritic/Some Like It Hot-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'The Lion King' already scraped at critic-reviews-metacritic/The Lion King-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'In the Mood for Love' already scraped at critic-reviews-metacritic/In the Mood for Love-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Paths of Glory' already scraped at critic-reviews-metacritic/Paths of Glory-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Gladiator' already scraped at critic-reviews-metacritic/Gladiator-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Arrival' already scraped at critic-reviews-metacritic/Arrival-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'American History X' already scraped at critic-reviews-metacritic/American History X-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Inside Llewyn Davis' already scraped at critic-reviews-metacritic/Inside Llewyn Davis-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Toy Story' already scraped at critic-reviews-metacritic/Toy Story-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'The Departed' already scraped at critic-reviews-metacritic/The Departed-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Marriage Story' already scraped at critic-reviews-metacritic/Marriage Story-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'The Prestige' already scraped at critic-reviews-metacritic/The Prestige-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Anatomy of a Fall' already scraped at critic-reviews-metacritic/Anatomy of a Fall-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'The Third Man' already scraped at critic-reviews-metacritic/The Third Man-critic-reviews.csv
+2026-03-16 00:22:21 | INFO | SKIP | 'Boyhood' already scraped at critic-reviews-metacritic/Boyhood-critic-reviews.csv
+2026-03-16 00:22:23 | ERROR | ERROR | 'The Wizard of Oz' | Movie 'The Wizard of Oz' not found on Metacritic. Tried with and without year (1939).
+2026-03-16 00:22:23 | INFO | SKIP | 'The Usual Suspects' already scraped at critic-reviews-metacritic/The Usual Suspects-critic-reviews.csv
+2026-03-16 00:22:23 | INFO | SKIP | 'Gravity' already scraped at critic-reviews-metacritic/Gravity-critic-reviews.csv
+2026-03-16 00:22:23 | INFO | SKIP | 'Roma' already scraped at critic-reviews-metacritic/Roma-critic-reviews.csv
+2026-03-16 00:22:32 | INFO | OK | 'Grave of the Fireflies' saved to critic-reviews-metacritic/Grave of the Fireflies-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'The Holdovers' already scraped at critic-reviews-metacritic/The Holdovers-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'Rashomon' already scraped at critic-reviews-metacritic/Rashomon-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'Everything Everywhere All at Once' already scraped at critic-reviews-metacritic/Everything Everywhere All at Once-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'North by Northwest' already scraped at critic-reviews-metacritic/North by Northwest-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'The Intouchables' already scraped at critic-reviews-metacritic/The Intouchables-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'Minari' already scraped at critic-reviews-metacritic/Minari-critic-reviews.csv
+2026-03-16 00:22:34 | INFO | SKIP | 'Blade Runner' already scraped at critic-reviews-metacritic/Blade Runner-critic-reviews.csv
+2026-03-16 00:22:35 | ERROR | ERROR | 'Modern Times' | Movie 'Modern Times' not found on Metacritic. Tried with and without year (1936).
+2026-03-16 00:22:35 | INFO | SKIP | 'Past Lives' already scraped at critic-reviews-metacritic/Past Lives-critic-reviews.csv
+2026-03-16 00:22:35 | INFO | SKIP | 'Blue Velvet' already scraped at critic-reviews-metacritic/Blue Velvet-critic-reviews.csv
+2026-03-16 00:22:35 | INFO | SKIP | 'Once Upon a Time in the West' already scraped at critic-reviews-metacritic/Once Upon a Time in the West-critic-reviews.csv
+2026-03-16 00:22:35 | INFO | SKIP | 'Carol' already scraped at critic-reviews-metacritic/Carol-critic-reviews.csv
+2026-03-16 00:22:37 | ERROR | ERROR | '8-12' | Movie '8-12' not found on Metacritic. Tried with and without year (1963).
+2026-03-16 00:22:37 | INFO | SKIP | 'If Beale Street Could Talk' already scraped at critic-reviews-metacritic/If Beale Street Could Talk-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'On the Waterfront' already scraped at critic-reviews-metacritic/On the Waterfront-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Cinema Paradiso' already scraped at critic-reviews-metacritic/Cinema Paradiso-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'First Cow' already scraped at critic-reviews-metacritic/First Cow-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Amadeus' already scraped at critic-reviews-metacritic/Amadeus-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Call Me by Your Name' already scraped at critic-reviews-metacritic/Call Me by Your Name-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Do the Right Thing' already scraped at critic-reviews-metacritic/Do the Right Thing-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Widows' already scraped at critic-reviews-metacritic/Widows-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | 'Ran' already scraped at critic-reviews-metacritic/Ran-critic-reviews.csv
+2026-03-16 00:22:37 | INFO | SKIP | '12 Years a Slave' already scraped at critic-reviews-metacritic/12 Years a Slave-critic-reviews.csv
+2026-03-16 00:22:38 | ERROR | ERROR | 'Metropolis' | Movie 'Metropolis' not found on Metacritic. Tried with and without year (1927).
+2026-03-16 00:22:38 | INFO | SKIP | 'The Wolf of Wall Street' already scraped at critic-reviews-metacritic/The Wolf of Wall Street-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Unforgiven' already scraped at critic-reviews-metacritic/Unforgiven-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Shoplifters' already scraped at critic-reviews-metacritic/Shoplifters-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Django Unchained' already scraped at critic-reviews-metacritic/Django Unchained-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Brooklyn' already scraped at critic-reviews-metacritic/Brooklyn-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Touch of Evil' already scraped at critic-reviews-metacritic/Touch of Evil-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Won't You Be My Neighbor?' already scraped at critic-reviews-metacritic/Won't You Be My Neighbor?-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'The Lives of Others' already scraped at critic-reviews-metacritic/The Lives of Others-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'The Favourite' already scraped at critic-reviews-metacritic/The Favourite-critic-reviews.csv
+2026-03-16 00:22:38 | INFO | SKIP | 'Stalker' already scraped at critic-reviews-metacritic/Stalker-critic-reviews.csv
+2026-03-16 00:22:39 | ERROR | ERROR | 'Sunset Blvd.' | Movie 'Sunset Blvd.' not found on Metacritic. Tried with and without year (1950).
+2026-03-16 00:22:39 | INFO | SKIP | 'A Separation' already scraped at critic-reviews-metacritic/A Separation-critic-reviews.csv
+2026-03-16 00:22:47 | INFO | OK | 'Annie Hall' saved to critic-reviews-metacritic/Annie Hall-critic-reviews.csv
+2026-03-16 00:22:49 | INFO | SKIP | 'Little Women (2019)' already scraped at critic-reviews-metacritic/Little Women (2019)-critic-reviews.csv
+2026-03-16 00:22:49 | INFO | SKIP | 'Phantom Thread' already scraped at critic-reviews-metacritic/Phantom Thread-critic-reviews.csv
+2026-03-16 00:22:49 | INFO | SKIP | 'Great Expectations' already scraped at critic-reviews-metacritic/Great Expectations-critic-reviews.csv
+2026-03-16 00:22:51 | ERROR | ERROR | 'The Great Dictator' | Movie 'The Great Dictator' not found on Metacritic. Tried with and without year (1940).
+2026-03-16 00:22:51 | INFO | SKIP | 'Tar' already scraped at critic-reviews-metacritic/Tar-critic-reviews.csv
+2026-03-16 00:22:52 | ERROR | ERROR | 'The General' | Movie 'The General' not found on Metacritic. Tried with and without year (1926).
+2026-03-16 00:22:52 | INFO | SKIP | 'Witness for the Prosecution' already scraped at critic-reviews-metacritic/Witness for the Prosecution-critic-reviews.csv
+2026-03-16 00:22:52 | INFO | SKIP | 'Before Sunset' already scraped at critic-reviews-metacritic/Before Sunset-critic-reviews.csv
+2026-03-16 00:22:53 | ERROR | ERROR | 'Butch Cassidy & Sundance Kid' | Movie 'Butch Cassidy & Sundance Kid' not found on Metacritic. Tried with and without year (1969).
+2026-03-16 00:22:53 | INFO | SKIP | 'Avengers: Infinity War' already scraped at critic-reviews-metacritic/Avengers: Infinity War-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'The Shape of Water' already scraped at critic-reviews-metacritic/The Shape of Water-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'To Kill a Mockingbird' already scraped at critic-reviews-metacritic/To Kill a Mockingbird-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Aliens' already scraped at critic-reviews-metacritic/Aliens-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'The Handmaiden' already scraped at critic-reviews-metacritic/The Handmaiden-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Stagecoach' already scraped at critic-reviews-metacritic/Stagecoach-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'American Beauty' already scraped at critic-reviews-metacritic/American Beauty-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Manchester by the Sea' already scraped at critic-reviews-metacritic/Manchester by the Sea-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'All About Eve' already scraped at critic-reviews-metacritic/All About Eve-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Once Upon a Time in Hollywood' already scraped at critic-reviews-metacritic/Once Upon a Time in Hollywood-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Burning' already scraped at critic-reviews-metacritic/Burning-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Fargo' already scraped at critic-reviews-metacritic/Fargo-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Oldboy' already scraped at critic-reviews-metacritic/Oldboy-critic-reviews.csv
+2026-03-16 00:22:53 | INFO | SKIP | 'Under the Skin' already scraped at critic-reviews-metacritic/Under the Skin-critic-reviews.csv
+2026-03-16 00:22:55 | ERROR | ERROR | 'The 400 Blows' | Movie 'The 400 Blows' not found on Metacritic. Tried with and without year (1959).
+2026-03-16 00:22:55 | INFO | SKIP | 'Princess Mononoke' already scraped at critic-reviews-metacritic/Princess Mononoke-critic-reviews.csv
+2026-03-16 00:22:55 | INFO | SKIP | 'Her' already scraped at critic-reviews-metacritic/Her-critic-reviews.csv
+2026-03-16 00:22:57 | ERROR | ERROR | 'Dark Knight Rises' | Movie 'Dark Knight Rises' not found on Metacritic. Tried with and without year (2012).
+2026-03-16 00:22:57 | INFO | SKIP | 'No Country for Old Men' already scraped at critic-reviews-metacritic/No Country for Old Men-critic-reviews.csv
+2026-03-16 00:22:57 | INFO | SKIP | 'Ben-Hur' already scraped at critic-reviews-metacritic/Ben-Hur-critic-reviews.csv
+2026-03-16 00:22:57 | INFO | SKIP | 'The Grand Budapest Hotel' already scraped at critic-reviews-metacritic/The Grand Budapest Hotel-critic-reviews.csv
+2026-03-16 00:22:57 | INFO | SKIP | 'Bonnie and Clyde' already scraped at critic-reviews-metacritic/Bonnie and Clyde-critic-reviews.csv
+2026-03-16 00:22:57 | INFO | SKIP | 'La La Land' already scraped at critic-reviews-metacritic/La La Land-critic-reviews.csv
+2026-03-16 00:22:58 | ERROR | ERROR | 'Beauty and the Beast' | Movie 'Beauty and the Beast' not found on Metacritic. Tried with and without year (1946).
+2026-03-16 00:22:58 | INFO | SKIP | 'Braveheart' already scraped at critic-reviews-metacritic/Braveheart-critic-reviews.csv
+2026-03-16 00:22:59 | ERROR | ERROR | 'Birdman' | Movie 'Birdman' not found on Metacritic. Tried with and without year (2014).
+2026-03-16 00:22:59 | INFO | SKIP | 'Breathless' already scraped at critic-reviews-metacritic/Breathless-critic-reviews.csv
+2026-03-16 00:22:59 | INFO | SKIP | 'Joker' already scraped at critic-reviews-metacritic/Joker-critic-reviews.csv
+2026-03-16 00:22:59 | INFO | SKIP | 'Spotlight' already scraped at critic-reviews-metacritic/Spotlight-critic-reviews.csv
+2026-03-16 00:23:01 | ERROR | ERROR | 'Bicycle Thieves' | Movie 'Bicycle Thieves' not found on Metacritic. Tried with and without year (1948).
+2026-03-16 00:23:01 | INFO | SKIP | 'Ex Machina' already scraped at critic-reviews-metacritic/Ex Machina-critic-reviews.csv
+2026-03-16 00:23:01 | INFO | SKIP | 'O Brother, Where Art Thou?' already scraped at critic-reviews-metacritic/O Brother, Where Art Thou?-critic-reviews.csv
+2026-03-16 00:23:01 | INFO | SKIP | 'Notorious' already scraped at critic-reviews-metacritic/Notorious-critic-reviews.csv
+2026-03-16 00:23:01 | INFO | SKIP | 'Das Boot' already scraped at critic-reviews-metacritic/Das Boot-critic-reviews.csv
+2026-03-16 00:23:03 | ERROR | ERROR | 'Mulholland Drive' | Movie 'Mulholland Drive' not found on Metacritic. Tried with and without year (2001).
+2026-03-16 00:23:03 | INFO | SKIP | 'The Searchers' already scraped at critic-reviews-metacritic/The Searchers-critic-reviews.csv
+2026-03-16 00:23:03 | INFO | SKIP | 'Inglourious Basterds' already scraped at critic-reviews-metacritic/Inglourious Basterds-critic-reviews.csv
+2026-03-16 00:23:03 | INFO | SKIP | 'Pan's Labyrinth' already scraped at critic-reviews-metacritic/Pan's Labyrinth-critic-reviews.csv
+2026-03-16 00:23:03 | INFO | SKIP | 'Hamilton' already scraped at critic-reviews-metacritic/Hamilton-critic-reviews.csv
+2026-03-16 00:23:04 | ERROR | ERROR | 'Amélie' | Movie 'Amélie' not found on Metacritic. Tried with and without year (2001).
+2026-03-16 00:23:04 | INFO | SKIP | 'Come and See' already scraped at critic-reviews-metacritic/Come and See-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | '3 Idiots' already scraped at critic-reviews-metacritic/3 Idiots-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'Million Dollar Baby' already scraped at critic-reviews-metacritic/Million Dollar Baby-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'The Bridge on the River Kwai' already scraped at critic-reviews-metacritic/The Bridge on the River Kwai-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'Brokeback Mountain' already scraped at critic-reviews-metacritic/Brokeback Mountain-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'A Clockwork Orange' already scraped at critic-reviews-metacritic/A Clockwork Orange-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'The Sting' already scraped at critic-reviews-metacritic/The Sting-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'The Master' already scraped at critic-reviews-metacritic/The Master-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'Wild Strawberries' already scraped at critic-reviews-metacritic/Wild Strawberries-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'Good Will Hunting' already scraped at critic-reviews-metacritic/Good Will Hunting-critic-reviews.csv
+2026-03-16 00:23:04 | INFO | SKIP | 'Blade Runner 2049' already scraped at critic-reviews-metacritic/Blade Runner 2049-critic-reviews.csv
+2026-03-16 00:23:05 | ERROR | ERROR | 'High Noon' | Movie 'High Noon' not found on Metacritic. Tried with and without year (1952).
+2026-03-16 00:23:05 | INFO | SKIP | 'Requiem for a Dream' already scraped at critic-reviews-metacritic/Requiem for a Dream-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'The Deer Hunter' already scraped at critic-reviews-metacritic/The Deer Hunter-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Inside Out 2' already scraped at critic-reviews-metacritic/Inside Out 2-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Eternal Sunshine of the Spotless Mind' already scraped at critic-reviews-metacritic/Eternal Sunshine of the Spotless Mind-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Avengers: Endgame' already scraped at critic-reviews-metacritic/Avengers: Endgame-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Manhattan' already scraped at critic-reviews-metacritic/Manhattan-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Wall-E' already scraped at critic-reviews-metacritic/Wall-E-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'The Great Escape' already scraped at critic-reviews-metacritic/The Great Escape-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'John Wick' already scraped at critic-reviews-metacritic/John Wick-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'LA Confidential' already scraped at critic-reviews-metacritic/LA Confidential-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'Full Metal Jacket' already scraped at critic-reviews-metacritic/Full Metal Jacket-critic-reviews.csv
+2026-03-16 00:23:05 | INFO | SKIP | 'The Zone of Interest' already scraped at critic-reviews-metacritic/The Zone of Interest-critic-reviews.csv
+2026-03-16 00:23:07 | ERROR | ERROR | 'Aguirre, the Wrath of God' | Movie 'Aguirre, the Wrath of God' not found on Metacritic. Tried with and without year (1972).
+2026-03-16 00:23:07 | INFO | SKIP | 'Decision to Leave' already scraped at critic-reviews-metacritic/Decision to Leave-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Strangers on a Train' already scraped at critic-reviews-metacritic/Strangers on a Train-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'The Maltese Falcon' already scraped at critic-reviews-metacritic/The Maltese Falcon-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Poor Things' already scraped at critic-reviews-metacritic/Poor Things-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Heat' already scraped at critic-reviews-metacritic/Heat-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Reservoir Dogs' already scraped at critic-reviews-metacritic/Reservoir Dogs-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Kill Bill: Vol 1' already scraped at critic-reviews-metacritic/Kill Bill: Vol 1-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Barry Lyndon' already scraped at critic-reviews-metacritic/Barry Lyndon-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'The Iron Claw' already scraped at critic-reviews-metacritic/The Iron Claw-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Platoon' already scraped at critic-reviews-metacritic/Platoon-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Godzilla Minus One' already scraped at critic-reviews-metacritic/Godzilla Minus One-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Hunt for the Wilderpeople' already scraped at critic-reviews-metacritic/Hunt for the Wilderpeople-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Bottoms' already scraped at critic-reviews-metacritic/Bottoms-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'The Wild Bunch' already scraped at critic-reviews-metacritic/The Wild Bunch-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | '1917' already scraped at critic-reviews-metacritic/1917-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Oppenheimer' already scraped at critic-reviews-metacritic/Oppenheimer-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Rebecca' already scraped at critic-reviews-metacritic/Rebecca-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Talk to Me' already scraped at critic-reviews-metacritic/Talk to Me-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'The Treasure of the Sierra Madre' already scraped at critic-reviews-metacritic/The Treasure of the Sierra Madre-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'The Wrestler' already scraped at critic-reviews-metacritic/The Wrestler-critic-reviews.csv
+2026-03-16 00:23:07 | INFO | SKIP | 'Dog Day Afternoon' already scraped at critic-reviews-metacritic/Dog Day Afternoon-critic-reviews.csv
+2026-03-16 00:25:21 | WARNING | Scrape finished with 23 problematic movies: Star Wars: Episode V - The Empire Strikes Back, Star Wars: A New Hope, Harry Potter & Deathly Hallows Part 2, Dr. Strangelove, Lawrence of Arabia, Leon: The Professional, The Wizard of Oz, Modern Times, 8-12, Metropolis, Sunset Blvd., The Great Dictator, The General, Butch Cassidy & Sundance Kid, The 400 Blows, Dark Knight Rises, Beauty and the Beast, Birdman, Bicycle Thieves, Mulholland Drive, Amélie, High Noon, Aguirre, the Wrath of God
+2026-03-16 00:26:07 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-16 00:26:07 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-16 00:26:19 | INFO | OK | 'Star Wars: Episode V - The Empire Strikes Back' saved to critic-reviews-metacritic/Star Wars: Episode V - The Empire Strikes Back-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Mission: Impossible Dead Reckoning' already scraped at critic-reviews-metacritic/Mission: Impossible Dead Reckoning-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Coco' already scraped at critic-reviews-metacritic/Coco-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Alien' already scraped at critic-reviews-metacritic/Alien-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Lord of the Rings: The Two Towers' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'How to Train Your Dragon' already scraped at critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Silence of the Lambs' already scraped at critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Inception' already scraped at critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Up' already scraped at critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Shining' already scraped at critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Star Trek' already scraped at critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Seven' already scraped at critic-reviews-metacritic/Seven-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Matrix' already scraped at critic-reviews-metacritic/The Matrix-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Social Network' already scraped at critic-reviews-metacritic/The Social Network-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Apartment' already scraped at critic-reviews-metacritic/The Apartment-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Eighth Grade' already scraped at critic-reviews-metacritic/Eighth Grade-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Casablanca' already scraped at critic-reviews-metacritic/Casablanca-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'One Flew Over the Cuckoo's Nest' already scraped at critic-reviews-metacritic/One Flew Over the Cuckoo's Nest-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Argo' already scraped at critic-reviews-metacritic/Argo-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Seven Samurai' already scraped at critic-reviews-metacritic/Seven Samurai-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Portrait of a Lady on Fire' already scraped at critic-reviews-metacritic/Portrait of a Lady on Fire-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Hell or High Water' already scraped at critic-reviews-metacritic/Hell or High Water-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'It's a Wonderful Life' already scraped at critic-reviews-metacritic/It's a Wonderful Life-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Memento' already scraped at critic-reviews-metacritic/Memento-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Psycho' already scraped at critic-reviews-metacritic/Psycho-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Spider-Man: No Way Home' already scraped at critic-reviews-metacritic/Spider-Man: No Way Home-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Singin' in the Rain' already scraped at critic-reviews-metacritic/Singin' in the Rain-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'City of God' already scraped at critic-reviews-metacritic/City of God-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Farewell' already scraped at critic-reviews-metacritic/The Farewell-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Apocalypse Now' already scraped at critic-reviews-metacritic/Apocalypse Now-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Saving Private Ryan' already scraped at critic-reviews-metacritic/Saving Private Ryan-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Whiplash' already scraped at critic-reviews-metacritic/Whiplash-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Vertigo' already scraped at critic-reviews-metacritic/Vertigo-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Life Is Beautiful' already scraped at critic-reviews-metacritic/Life Is Beautiful-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Your Name' already scraped at critic-reviews-metacritic/Your Name-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Citizen Kane' already scraped at critic-reviews-metacritic/Citizen Kane-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Green Mile' already scraped at critic-reviews-metacritic/The Green Mile-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'The Pianist' already scraped at critic-reviews-metacritic/The Pianist-critic-reviews.csv
+2026-03-16 00:26:21 | INFO | SKIP | 'Taxi Driver' already scraped at critic-reviews-metacritic/Taxi Driver-critic-reviews.csv
+2026-03-16 00:26:23 | ERROR | ERROR | 'Star Wars: A New Hope' | Movie 'Star Wars: A New Hope' not found on Metacritic. Tried with and without year (1977).
+2026-03-16 00:26:24 | ERROR | ERROR | 'Harry Potter & Deathly Hallows Part 2' | Movie 'Harry Potter & Deathly Hallows Part 2' not found on Metacritic. Tried with and without year (2011).
+2026-03-16 00:26:24 | INFO | SKIP | '2001: A Space Odyssey' already scraped at critic-reviews-metacritic/2001: A Space Odyssey-critic-reviews.csv
+2026-03-16 00:26:24 | INFO | SKIP | 'Interstellar' already scraped at critic-reviews-metacritic/Interstellar-critic-reviews.csv
+2026-03-16 00:26:24 | INFO | SKIP | 'Spider-Man: Across the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Across the Spider-Verse-critic-reviews.csv
+2026-03-16 00:26:26 | ERROR | ERROR | 'Dr. Strangelove' | Movie 'Dr. Strangelove' not found on Metacritic. Tried with and without year (1964).
+2026-03-16 00:26:26 | INFO | SKIP | 'Terminator 2: Judgment Day' already scraped at critic-reviews-metacritic/Terminator 2: Judgment Day-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Get Out' already scraped at critic-reviews-metacritic/Get Out-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Double Indemnity' already scraped at critic-reviews-metacritic/Double Indemnity-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Back to the Future' already scraped at critic-reviews-metacritic/Back to the Future-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Selma' already scraped at critic-reviews-metacritic/Selma-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Raging Bull' already scraped at critic-reviews-metacritic/Raging Bull-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Moonlight' already scraped at critic-reviews-metacritic/Moonlight-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Chinatown' already scraped at critic-reviews-metacritic/Chinatown-critic-reviews.csv
+2026-03-16 00:26:26 | INFO | SKIP | 'Lady Bird' already scraped at critic-reviews-metacritic/Lady Bird-critic-reviews.csv
+2026-03-16 00:26:27 | ERROR | ERROR | 'Lawrence of Arabia' | Movie 'Lawrence of Arabia' not found on Metacritic. Tried with and without year (1962).
+2026-03-16 00:26:27 | INFO | SKIP | 'Dunkirk' already scraped at critic-reviews-metacritic/Dunkirk-critic-reviews.csv
+2026-03-16 00:26:27 | INFO | SKIP | 'Paddington 2' already scraped at critic-reviews-metacritic/Paddington 2-critic-reviews.csv
+2026-03-16 00:26:27 | INFO | SKIP | 'Jaws' already scraped at critic-reviews-metacritic/Jaws-critic-reviews.csv
+2026-03-16 00:26:28 | ERROR | ERROR | 'Leon: The Professional' | Movie 'Leon: The Professional' not found on Metacritic. Tried with and without year (1994).
+2026-03-16 00:26:28 | INFO | SKIP | 'Black Panther' already scraped at critic-reviews-metacritic/Black Panther-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Some Like It Hot' already scraped at critic-reviews-metacritic/Some Like It Hot-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'The Lion King' already scraped at critic-reviews-metacritic/The Lion King-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'In the Mood for Love' already scraped at critic-reviews-metacritic/In the Mood for Love-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Paths of Glory' already scraped at critic-reviews-metacritic/Paths of Glory-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Gladiator' already scraped at critic-reviews-metacritic/Gladiator-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Arrival' already scraped at critic-reviews-metacritic/Arrival-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'American History X' already scraped at critic-reviews-metacritic/American History X-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Inside Llewyn Davis' already scraped at critic-reviews-metacritic/Inside Llewyn Davis-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Toy Story' already scraped at critic-reviews-metacritic/Toy Story-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'The Departed' already scraped at critic-reviews-metacritic/The Departed-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Marriage Story' already scraped at critic-reviews-metacritic/Marriage Story-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'The Prestige' already scraped at critic-reviews-metacritic/The Prestige-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Anatomy of a Fall' already scraped at critic-reviews-metacritic/Anatomy of a Fall-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'The Third Man' already scraped at critic-reviews-metacritic/The Third Man-critic-reviews.csv
+2026-03-16 00:26:28 | INFO | SKIP | 'Boyhood' already scraped at critic-reviews-metacritic/Boyhood-critic-reviews.csv
+2026-03-16 00:26:29 | ERROR | ERROR | 'The Wizard of Oz' | Movie 'The Wizard of Oz' not found on Metacritic. Tried with and without year (1939).
+2026-03-16 00:26:29 | INFO | SKIP | 'The Usual Suspects' already scraped at critic-reviews-metacritic/The Usual Suspects-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Gravity' already scraped at critic-reviews-metacritic/Gravity-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Roma' already scraped at critic-reviews-metacritic/Roma-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Grave of the Fireflies' already scraped at critic-reviews-metacritic/Grave of the Fireflies-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'The Holdovers' already scraped at critic-reviews-metacritic/The Holdovers-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Rashomon' already scraped at critic-reviews-metacritic/Rashomon-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Everything Everywhere All at Once' already scraped at critic-reviews-metacritic/Everything Everywhere All at Once-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'North by Northwest' already scraped at critic-reviews-metacritic/North by Northwest-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'The Intouchables' already scraped at critic-reviews-metacritic/The Intouchables-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Minari' already scraped at critic-reviews-metacritic/Minari-critic-reviews.csv
+2026-03-16 00:26:29 | INFO | SKIP | 'Blade Runner' already scraped at critic-reviews-metacritic/Blade Runner-critic-reviews.csv
+2026-03-16 00:26:30 | ERROR | ERROR | 'Modern Times' | Movie 'Modern Times' not found on Metacritic. Tried with and without year (1936).
+2026-03-16 00:26:30 | INFO | SKIP | 'Past Lives' already scraped at critic-reviews-metacritic/Past Lives-critic-reviews.csv
+2026-03-16 00:26:30 | INFO | SKIP | 'Blue Velvet' already scraped at critic-reviews-metacritic/Blue Velvet-critic-reviews.csv
+2026-03-16 00:26:30 | INFO | SKIP | 'Once Upon a Time in the West' already scraped at critic-reviews-metacritic/Once Upon a Time in the West-critic-reviews.csv
+2026-03-16 00:26:30 | INFO | SKIP | 'Carol' already scraped at critic-reviews-metacritic/Carol-critic-reviews.csv
+2026-03-16 00:26:32 | ERROR | ERROR | '8-12' | Movie '8-12' not found on Metacritic. Tried with and without year (1963).
+2026-03-16 00:26:32 | INFO | SKIP | 'If Beale Street Could Talk' already scraped at critic-reviews-metacritic/If Beale Street Could Talk-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'On the Waterfront' already scraped at critic-reviews-metacritic/On the Waterfront-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Cinema Paradiso' already scraped at critic-reviews-metacritic/Cinema Paradiso-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'First Cow' already scraped at critic-reviews-metacritic/First Cow-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Amadeus' already scraped at critic-reviews-metacritic/Amadeus-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Call Me by Your Name' already scraped at critic-reviews-metacritic/Call Me by Your Name-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Do the Right Thing' already scraped at critic-reviews-metacritic/Do the Right Thing-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Widows' already scraped at critic-reviews-metacritic/Widows-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | 'Ran' already scraped at critic-reviews-metacritic/Ran-critic-reviews.csv
+2026-03-16 00:26:32 | INFO | SKIP | '12 Years a Slave' already scraped at critic-reviews-metacritic/12 Years a Slave-critic-reviews.csv
+2026-03-16 00:26:33 | ERROR | ERROR | 'Metropolis' | Movie 'Metropolis' not found on Metacritic. Tried with and without year (1927).
+2026-03-16 00:26:33 | INFO | SKIP | 'The Wolf of Wall Street' already scraped at critic-reviews-metacritic/The Wolf of Wall Street-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Unforgiven' already scraped at critic-reviews-metacritic/Unforgiven-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Shoplifters' already scraped at critic-reviews-metacritic/Shoplifters-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Django Unchained' already scraped at critic-reviews-metacritic/Django Unchained-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Brooklyn' already scraped at critic-reviews-metacritic/Brooklyn-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Touch of Evil' already scraped at critic-reviews-metacritic/Touch of Evil-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Won't You Be My Neighbor?' already scraped at critic-reviews-metacritic/Won't You Be My Neighbor?-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'The Lives of Others' already scraped at critic-reviews-metacritic/The Lives of Others-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'The Favourite' already scraped at critic-reviews-metacritic/The Favourite-critic-reviews.csv
+2026-03-16 00:26:33 | INFO | SKIP | 'Stalker' already scraped at critic-reviews-metacritic/Stalker-critic-reviews.csv
+2026-03-16 00:26:34 | ERROR | ERROR | 'Sunset Blvd.' | Movie 'Sunset Blvd.' not found on Metacritic. Tried with and without year (1950).
+2026-03-16 00:26:34 | INFO | SKIP | 'A Separation' already scraped at critic-reviews-metacritic/A Separation-critic-reviews.csv
+2026-03-16 00:26:34 | INFO | SKIP | 'Annie Hall' already scraped at critic-reviews-metacritic/Annie Hall-critic-reviews.csv
+2026-03-16 00:26:34 | INFO | SKIP | 'Little Women (2019)' already scraped at critic-reviews-metacritic/Little Women (2019)-critic-reviews.csv
+2026-03-16 00:26:34 | INFO | SKIP | 'Phantom Thread' already scraped at critic-reviews-metacritic/Phantom Thread-critic-reviews.csv
+2026-03-16 00:26:34 | INFO | SKIP | 'Great Expectations' already scraped at critic-reviews-metacritic/Great Expectations-critic-reviews.csv
+2026-03-16 00:26:35 | ERROR | ERROR | 'The Great Dictator' | Movie 'The Great Dictator' not found on Metacritic. Tried with and without year (1940).
+2026-03-16 00:26:35 | INFO | SKIP | 'Tar' already scraped at critic-reviews-metacritic/Tar-critic-reviews.csv
+2026-03-16 00:26:37 | ERROR | ERROR | 'The General' | Movie 'The General' not found on Metacritic. Tried with and without year (1926).
+2026-03-16 00:26:37 | INFO | SKIP | 'Witness for the Prosecution' already scraped at critic-reviews-metacritic/Witness for the Prosecution-critic-reviews.csv
+2026-03-16 00:26:37 | INFO | SKIP | 'Before Sunset' already scraped at critic-reviews-metacritic/Before Sunset-critic-reviews.csv
+2026-03-16 00:26:38 | ERROR | ERROR | 'Butch Cassidy & Sundance Kid' | Movie 'Butch Cassidy & Sundance Kid' not found on Metacritic. Tried with and without year (1969).
+2026-03-16 00:26:38 | INFO | SKIP | 'Avengers: Infinity War' already scraped at critic-reviews-metacritic/Avengers: Infinity War-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'The Shape of Water' already scraped at critic-reviews-metacritic/The Shape of Water-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'To Kill a Mockingbird' already scraped at critic-reviews-metacritic/To Kill a Mockingbird-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Aliens' already scraped at critic-reviews-metacritic/Aliens-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'The Handmaiden' already scraped at critic-reviews-metacritic/The Handmaiden-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Stagecoach' already scraped at critic-reviews-metacritic/Stagecoach-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'American Beauty' already scraped at critic-reviews-metacritic/American Beauty-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Manchester by the Sea' already scraped at critic-reviews-metacritic/Manchester by the Sea-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'All About Eve' already scraped at critic-reviews-metacritic/All About Eve-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Once Upon a Time in Hollywood' already scraped at critic-reviews-metacritic/Once Upon a Time in Hollywood-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Burning' already scraped at critic-reviews-metacritic/Burning-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Fargo' already scraped at critic-reviews-metacritic/Fargo-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Oldboy' already scraped at critic-reviews-metacritic/Oldboy-critic-reviews.csv
+2026-03-16 00:26:38 | INFO | SKIP | 'Under the Skin' already scraped at critic-reviews-metacritic/Under the Skin-critic-reviews.csv
+2026-03-16 00:26:39 | ERROR | ERROR | 'The 400 Blows' | Movie 'The 400 Blows' not found on Metacritic. Tried with and without year (1959).
+2026-03-16 00:26:39 | INFO | SKIP | 'Princess Mononoke' already scraped at critic-reviews-metacritic/Princess Mononoke-critic-reviews.csv
+2026-03-16 00:26:39 | INFO | SKIP | 'Her' already scraped at critic-reviews-metacritic/Her-critic-reviews.csv
+2026-03-16 00:26:40 | ERROR | ERROR | 'Dark Knight Rises' | Movie 'Dark Knight Rises' not found on Metacritic. Tried with and without year (2012).
+2026-03-16 00:26:40 | INFO | SKIP | 'No Country for Old Men' already scraped at critic-reviews-metacritic/No Country for Old Men-critic-reviews.csv
+2026-03-16 00:26:40 | INFO | SKIP | 'Ben-Hur' already scraped at critic-reviews-metacritic/Ben-Hur-critic-reviews.csv
+2026-03-16 00:26:40 | INFO | SKIP | 'The Grand Budapest Hotel' already scraped at critic-reviews-metacritic/The Grand Budapest Hotel-critic-reviews.csv
+2026-03-16 00:26:40 | INFO | SKIP | 'Bonnie and Clyde' already scraped at critic-reviews-metacritic/Bonnie and Clyde-critic-reviews.csv
+2026-03-16 00:26:40 | INFO | SKIP | 'La La Land' already scraped at critic-reviews-metacritic/La La Land-critic-reviews.csv
+2026-03-16 00:26:41 | ERROR | ERROR | 'Beauty and the Beast' | Movie 'Beauty and the Beast' not found on Metacritic. Tried with and without year (1946).
+2026-03-16 00:26:41 | INFO | SKIP | 'Braveheart' already scraped at critic-reviews-metacritic/Braveheart-critic-reviews.csv
+2026-03-16 00:26:43 | ERROR | ERROR | 'Birdman' | Movie 'Birdman' not found on Metacritic. Tried with and without year (2014).
+2026-03-16 00:26:43 | INFO | SKIP | 'Breathless' already scraped at critic-reviews-metacritic/Breathless-critic-reviews.csv
+2026-03-16 00:26:43 | INFO | SKIP | 'Joker' already scraped at critic-reviews-metacritic/Joker-critic-reviews.csv
+2026-03-16 00:26:43 | INFO | SKIP | 'Spotlight' already scraped at critic-reviews-metacritic/Spotlight-critic-reviews.csv
+2026-03-16 00:26:44 | ERROR | ERROR | 'Bicycle Thieves' | Movie 'Bicycle Thieves' not found on Metacritic. Tried with and without year (1948).
+2026-03-16 00:26:44 | INFO | SKIP | 'Ex Machina' already scraped at critic-reviews-metacritic/Ex Machina-critic-reviews.csv
+2026-03-16 00:26:44 | INFO | SKIP | 'O Brother, Where Art Thou?' already scraped at critic-reviews-metacritic/O Brother, Where Art Thou?-critic-reviews.csv
+2026-03-16 00:26:44 | INFO | SKIP | 'Notorious' already scraped at critic-reviews-metacritic/Notorious-critic-reviews.csv
+2026-03-16 00:26:44 | INFO | SKIP | 'Das Boot' already scraped at critic-reviews-metacritic/Das Boot-critic-reviews.csv
+2026-03-16 00:26:45 | ERROR | ERROR | 'Mulholland Drive' | Movie 'Mulholland Drive' not found on Metacritic. Tried with and without year (2001).
+2026-03-16 00:26:45 | INFO | SKIP | 'The Searchers' already scraped at critic-reviews-metacritic/The Searchers-critic-reviews.csv
+2026-03-16 00:26:45 | INFO | SKIP | 'Inglourious Basterds' already scraped at critic-reviews-metacritic/Inglourious Basterds-critic-reviews.csv
+2026-03-16 00:26:45 | INFO | SKIP | 'Pan's Labyrinth' already scraped at critic-reviews-metacritic/Pan's Labyrinth-critic-reviews.csv
+2026-03-16 00:26:45 | INFO | SKIP | 'Hamilton' already scraped at critic-reviews-metacritic/Hamilton-critic-reviews.csv
+2026-03-16 00:26:46 | ERROR | ERROR | 'Amélie' | Movie 'Amélie' not found on Metacritic. Tried with and without year (2001).
+2026-03-16 00:26:46 | INFO | SKIP | 'Come and See' already scraped at critic-reviews-metacritic/Come and See-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | '3 Idiots' already scraped at critic-reviews-metacritic/3 Idiots-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'Million Dollar Baby' already scraped at critic-reviews-metacritic/Million Dollar Baby-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'The Bridge on the River Kwai' already scraped at critic-reviews-metacritic/The Bridge on the River Kwai-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'Brokeback Mountain' already scraped at critic-reviews-metacritic/Brokeback Mountain-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'A Clockwork Orange' already scraped at critic-reviews-metacritic/A Clockwork Orange-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'The Sting' already scraped at critic-reviews-metacritic/The Sting-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'The Master' already scraped at critic-reviews-metacritic/The Master-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'Wild Strawberries' already scraped at critic-reviews-metacritic/Wild Strawberries-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'Good Will Hunting' already scraped at critic-reviews-metacritic/Good Will Hunting-critic-reviews.csv
+2026-03-16 00:26:46 | INFO | SKIP | 'Blade Runner 2049' already scraped at critic-reviews-metacritic/Blade Runner 2049-critic-reviews.csv
+2026-03-16 00:26:48 | ERROR | ERROR | 'High Noon' | Movie 'High Noon' not found on Metacritic. Tried with and without year (1952).
+2026-03-16 00:26:48 | INFO | SKIP | 'Requiem for a Dream' already scraped at critic-reviews-metacritic/Requiem for a Dream-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'The Deer Hunter' already scraped at critic-reviews-metacritic/The Deer Hunter-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Inside Out 2' already scraped at critic-reviews-metacritic/Inside Out 2-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Eternal Sunshine of the Spotless Mind' already scraped at critic-reviews-metacritic/Eternal Sunshine of the Spotless Mind-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Avengers: Endgame' already scraped at critic-reviews-metacritic/Avengers: Endgame-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Manhattan' already scraped at critic-reviews-metacritic/Manhattan-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Wall-E' already scraped at critic-reviews-metacritic/Wall-E-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'The Great Escape' already scraped at critic-reviews-metacritic/The Great Escape-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'John Wick' already scraped at critic-reviews-metacritic/John Wick-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'LA Confidential' already scraped at critic-reviews-metacritic/LA Confidential-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'Full Metal Jacket' already scraped at critic-reviews-metacritic/Full Metal Jacket-critic-reviews.csv
+2026-03-16 00:26:48 | INFO | SKIP | 'The Zone of Interest' already scraped at critic-reviews-metacritic/The Zone of Interest-critic-reviews.csv
+2026-03-16 00:26:49 | ERROR | ERROR | 'Aguirre, the Wrath of God' | Movie 'Aguirre, the Wrath of God' not found on Metacritic. Tried with and without year (1972).
+2026-03-16 00:26:49 | INFO | SKIP | 'Decision to Leave' already scraped at critic-reviews-metacritic/Decision to Leave-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Strangers on a Train' already scraped at critic-reviews-metacritic/Strangers on a Train-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'The Maltese Falcon' already scraped at critic-reviews-metacritic/The Maltese Falcon-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Poor Things' already scraped at critic-reviews-metacritic/Poor Things-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Heat' already scraped at critic-reviews-metacritic/Heat-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Reservoir Dogs' already scraped at critic-reviews-metacritic/Reservoir Dogs-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Kill Bill: Vol 1' already scraped at critic-reviews-metacritic/Kill Bill: Vol 1-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Barry Lyndon' already scraped at critic-reviews-metacritic/Barry Lyndon-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'The Iron Claw' already scraped at critic-reviews-metacritic/The Iron Claw-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Platoon' already scraped at critic-reviews-metacritic/Platoon-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Godzilla Minus One' already scraped at critic-reviews-metacritic/Godzilla Minus One-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Hunt for the Wilderpeople' already scraped at critic-reviews-metacritic/Hunt for the Wilderpeople-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Bottoms' already scraped at critic-reviews-metacritic/Bottoms-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'The Wild Bunch' already scraped at critic-reviews-metacritic/The Wild Bunch-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | '1917' already scraped at critic-reviews-metacritic/1917-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Oppenheimer' already scraped at critic-reviews-metacritic/Oppenheimer-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Rebecca' already scraped at critic-reviews-metacritic/Rebecca-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Talk to Me' already scraped at critic-reviews-metacritic/Talk to Me-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'The Treasure of the Sierra Madre' already scraped at critic-reviews-metacritic/The Treasure of the Sierra Madre-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'The Wrestler' already scraped at critic-reviews-metacritic/The Wrestler-critic-reviews.csv
+2026-03-16 00:26:49 | INFO | SKIP | 'Dog Day Afternoon' already scraped at critic-reviews-metacritic/Dog Day Afternoon-critic-reviews.csv
+2026-03-16 00:27:34 | WARNING | Scrape finished with 22 problematic movies: Star Wars: A New Hope, Harry Potter & Deathly Hallows Part 2, Dr. Strangelove, Lawrence of Arabia, Leon: The Professional, The Wizard of Oz, Modern Times, 8-12, Metropolis, Sunset Blvd., The Great Dictator, The General, Butch Cassidy & Sundance Kid, The 400 Blows, Dark Knight Rises, Beauty and the Beast, Birdman, Bicycle Thieves, Mulholland Drive, Amélie, High Noon, Aguirre, the Wrath of God
+2026-03-16 00:33:06 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Star Wars: Episode V - The Empire Strikes Back' already scraped at critic-reviews-metacritic/Star Wars: Episode V - The Empire Strikes Back-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Mission: Impossible Dead Reckoning' already scraped at critic-reviews-metacritic/Mission: Impossible Dead Reckoning-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Coco' already scraped at critic-reviews-metacritic/Coco-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Alien' already scraped at critic-reviews-metacritic/Alien-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Lord of the Rings: The Two Towers' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'How to Train Your Dragon' already scraped at critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Silence of the Lambs' already scraped at critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Inception' already scraped at critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Up' already scraped at critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Shining' already scraped at critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Star Trek' already scraped at critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Seven' already scraped at critic-reviews-metacritic/Seven-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Matrix' already scraped at critic-reviews-metacritic/The Matrix-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Social Network' already scraped at critic-reviews-metacritic/The Social Network-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Apartment' already scraped at critic-reviews-metacritic/The Apartment-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Eighth Grade' already scraped at critic-reviews-metacritic/Eighth Grade-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Casablanca' already scraped at critic-reviews-metacritic/Casablanca-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'One Flew Over the Cuckoo's Nest' already scraped at critic-reviews-metacritic/One Flew Over the Cuckoo's Nest-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Argo' already scraped at critic-reviews-metacritic/Argo-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Seven Samurai' already scraped at critic-reviews-metacritic/Seven Samurai-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Portrait of a Lady on Fire' already scraped at critic-reviews-metacritic/Portrait of a Lady on Fire-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Hell or High Water' already scraped at critic-reviews-metacritic/Hell or High Water-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'It's a Wonderful Life' already scraped at critic-reviews-metacritic/It's a Wonderful Life-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Memento' already scraped at critic-reviews-metacritic/Memento-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Psycho' already scraped at critic-reviews-metacritic/Psycho-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Spider-Man: No Way Home' already scraped at critic-reviews-metacritic/Spider-Man: No Way Home-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Singin' in the Rain' already scraped at critic-reviews-metacritic/Singin' in the Rain-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'City of God' already scraped at critic-reviews-metacritic/City of God-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Farewell' already scraped at critic-reviews-metacritic/The Farewell-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Apocalypse Now' already scraped at critic-reviews-metacritic/Apocalypse Now-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Saving Private Ryan' already scraped at critic-reviews-metacritic/Saving Private Ryan-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Whiplash' already scraped at critic-reviews-metacritic/Whiplash-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Vertigo' already scraped at critic-reviews-metacritic/Vertigo-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Life Is Beautiful' already scraped at critic-reviews-metacritic/Life Is Beautiful-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Your Name' already scraped at critic-reviews-metacritic/Your Name-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Citizen Kane' already scraped at critic-reviews-metacritic/Citizen Kane-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Green Mile' already scraped at critic-reviews-metacritic/The Green Mile-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'The Pianist' already scraped at critic-reviews-metacritic/The Pianist-critic-reviews.csv
+2026-03-16 00:33:06 | INFO | SKIP | 'Taxi Driver' already scraped at critic-reviews-metacritic/Taxi Driver-critic-reviews.csv
+2026-03-16 00:33:18 | INFO | OK | 'Star Wars: Episode IV - A New Hope' saved to critic-reviews-metacritic/Star Wars: Episode IV - A New Hope-critic-reviews.csv
+2026-03-16 00:33:36 | INFO | OK | 'Harry Potter and the Deathly Hallows Part 2' saved to critic-reviews-metacritic/Harry Potter and the Deathly Hallows Part 2-critic-reviews.csv
+2026-03-16 00:33:38 | INFO | SKIP | '2001: A Space Odyssey' already scraped at critic-reviews-metacritic/2001: A Space Odyssey-critic-reviews.csv
+2026-03-16 00:33:38 | INFO | SKIP | 'Interstellar' already scraped at critic-reviews-metacritic/Interstellar-critic-reviews.csv
+2026-03-16 00:33:38 | INFO | SKIP | 'Spider-Man: Across the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Across the Spider-Verse-critic-reviews.csv
+2026-03-16 00:33:52 | INFO | OK | 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb' saved to critic-reviews-metacritic/Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Terminator 2: Judgment Day' already scraped at critic-reviews-metacritic/Terminator 2: Judgment Day-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Get Out' already scraped at critic-reviews-metacritic/Get Out-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Double Indemnity' already scraped at critic-reviews-metacritic/Double Indemnity-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Back to the Future' already scraped at critic-reviews-metacritic/Back to the Future-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Selma' already scraped at critic-reviews-metacritic/Selma-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Raging Bull' already scraped at critic-reviews-metacritic/Raging Bull-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Moonlight' already scraped at critic-reviews-metacritic/Moonlight-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Chinatown' already scraped at critic-reviews-metacritic/Chinatown-critic-reviews.csv
+2026-03-16 00:33:54 | INFO | SKIP | 'Lady Bird' already scraped at critic-reviews-metacritic/Lady Bird-critic-reviews.csv
+2026-03-16 00:34:03 | INFO | OK | 'Lawrence of Arabia' saved to critic-reviews-metacritic/Lawrence of Arabia-critic-reviews.csv
+2026-03-16 00:34:05 | INFO | SKIP | 'Dunkirk' already scraped at critic-reviews-metacritic/Dunkirk-critic-reviews.csv
+2026-03-16 00:34:05 | INFO | SKIP | 'Paddington 2' already scraped at critic-reviews-metacritic/Paddington 2-critic-reviews.csv
+2026-03-16 00:34:05 | INFO | SKIP | 'Jaws' already scraped at critic-reviews-metacritic/Jaws-critic-reviews.csv
+2026-03-16 00:34:12 | INFO | OK | 'The Professional' saved to critic-reviews-metacritic/The Professional-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Black Panther' already scraped at critic-reviews-metacritic/Black Panther-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Some Like It Hot' already scraped at critic-reviews-metacritic/Some Like It Hot-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'The Lion King' already scraped at critic-reviews-metacritic/The Lion King-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'In the Mood for Love' already scraped at critic-reviews-metacritic/In the Mood for Love-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Paths of Glory' already scraped at critic-reviews-metacritic/Paths of Glory-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Gladiator' already scraped at critic-reviews-metacritic/Gladiator-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Arrival' already scraped at critic-reviews-metacritic/Arrival-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'American History X' already scraped at critic-reviews-metacritic/American History X-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Inside Llewyn Davis' already scraped at critic-reviews-metacritic/Inside Llewyn Davis-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Toy Story' already scraped at critic-reviews-metacritic/Toy Story-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'The Departed' already scraped at critic-reviews-metacritic/The Departed-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Marriage Story' already scraped at critic-reviews-metacritic/Marriage Story-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'The Prestige' already scraped at critic-reviews-metacritic/The Prestige-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Anatomy of a Fall' already scraped at critic-reviews-metacritic/Anatomy of a Fall-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'The Third Man' already scraped at critic-reviews-metacritic/The Third Man-critic-reviews.csv
+2026-03-16 00:34:14 | INFO | SKIP | 'Boyhood' already scraped at critic-reviews-metacritic/Boyhood-critic-reviews.csv
+2026-03-16 00:34:26 | INFO | OK | 'The Wizard of Oz' saved to critic-reviews-metacritic/The Wizard of Oz-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'The Usual Suspects' already scraped at critic-reviews-metacritic/The Usual Suspects-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Gravity' already scraped at critic-reviews-metacritic/Gravity-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Roma' already scraped at critic-reviews-metacritic/Roma-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Grave of the Fireflies' already scraped at critic-reviews-metacritic/Grave of the Fireflies-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'The Holdovers' already scraped at critic-reviews-metacritic/The Holdovers-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Rashomon' already scraped at critic-reviews-metacritic/Rashomon-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Everything Everywhere All at Once' already scraped at critic-reviews-metacritic/Everything Everywhere All at Once-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'North by Northwest' already scraped at critic-reviews-metacritic/North by Northwest-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'The Intouchables' already scraped at critic-reviews-metacritic/The Intouchables-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Minari' already scraped at critic-reviews-metacritic/Minari-critic-reviews.csv
+2026-03-16 00:34:28 | INFO | SKIP | 'Blade Runner' already scraped at critic-reviews-metacritic/Blade Runner-critic-reviews.csv
+2026-03-16 00:34:45 | INFO | OK | 'Modern Times' saved to critic-reviews-metacritic/Modern Times-critic-reviews.csv
+2026-03-16 00:34:47 | INFO | SKIP | 'Past Lives' already scraped at critic-reviews-metacritic/Past Lives-critic-reviews.csv
+2026-03-16 00:34:47 | INFO | SKIP | 'Blue Velvet' already scraped at critic-reviews-metacritic/Blue Velvet-critic-reviews.csv
+2026-03-16 00:34:47 | INFO | SKIP | 'Once Upon a Time in the West' already scraped at critic-reviews-metacritic/Once Upon a Time in the West-critic-reviews.csv
+2026-03-16 00:34:47 | INFO | SKIP | 'Carol' already scraped at critic-reviews-metacritic/Carol-critic-reviews.csv
+2026-03-16 00:34:51 | ERROR | ERROR | '8-12' | Movie '8-12' not found on Metacritic. Tried with and without year (1963) and re-release.
+2026-03-16 00:34:51 | INFO | SKIP | 'If Beale Street Could Talk' already scraped at critic-reviews-metacritic/If Beale Street Could Talk-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'On the Waterfront' already scraped at critic-reviews-metacritic/On the Waterfront-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Cinema Paradiso' already scraped at critic-reviews-metacritic/Cinema Paradiso-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'First Cow' already scraped at critic-reviews-metacritic/First Cow-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Amadeus' already scraped at critic-reviews-metacritic/Amadeus-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Call Me by Your Name' already scraped at critic-reviews-metacritic/Call Me by Your Name-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Do the Right Thing' already scraped at critic-reviews-metacritic/Do the Right Thing-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Widows' already scraped at critic-reviews-metacritic/Widows-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | 'Ran' already scraped at critic-reviews-metacritic/Ran-critic-reviews.csv
+2026-03-16 00:34:51 | INFO | SKIP | '12 Years a Slave' already scraped at critic-reviews-metacritic/12 Years a Slave-critic-reviews.csv
+2026-03-16 00:35:00 | INFO | OK | 'Metropolis' saved to critic-reviews-metacritic/Metropolis-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'The Wolf of Wall Street' already scraped at critic-reviews-metacritic/The Wolf of Wall Street-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Unforgiven' already scraped at critic-reviews-metacritic/Unforgiven-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Shoplifters' already scraped at critic-reviews-metacritic/Shoplifters-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Django Unchained' already scraped at critic-reviews-metacritic/Django Unchained-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Brooklyn' already scraped at critic-reviews-metacritic/Brooklyn-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Touch of Evil' already scraped at critic-reviews-metacritic/Touch of Evil-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Won't You Be My Neighbor?' already scraped at critic-reviews-metacritic/Won't You Be My Neighbor?-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'The Lives of Others' already scraped at critic-reviews-metacritic/The Lives of Others-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'The Favourite' already scraped at critic-reviews-metacritic/The Favourite-critic-reviews.csv
+2026-03-16 00:35:02 | INFO | SKIP | 'Stalker' already scraped at critic-reviews-metacritic/Stalker-critic-reviews.csv
+2026-03-16 00:35:05 | ERROR | ERROR | 'Sunset Blvd.' | Movie 'Sunset Blvd.' not found on Metacritic. Tried with and without year (1950) and re-release.
+2026-03-16 00:35:05 | INFO | SKIP | 'A Separation' already scraped at critic-reviews-metacritic/A Separation-critic-reviews.csv
+2026-03-16 00:35:05 | INFO | SKIP | 'Annie Hall' already scraped at critic-reviews-metacritic/Annie Hall-critic-reviews.csv
+2026-03-16 00:35:05 | INFO | SKIP | 'Little Women (2019)' already scraped at critic-reviews-metacritic/Little Women (2019)-critic-reviews.csv
+2026-03-16 00:35:05 | INFO | SKIP | 'Phantom Thread' already scraped at critic-reviews-metacritic/Phantom Thread-critic-reviews.csv
+2026-03-16 00:35:05 | INFO | SKIP | 'Great Expectations' already scraped at critic-reviews-metacritic/Great Expectations-critic-reviews.csv
+2026-03-16 00:35:07 | ERROR | ERROR | 'The Great Dictator' | Movie 'The Great Dictator' not found on Metacritic. Tried with and without year (1940) and re-release.
+2026-03-16 00:35:07 | INFO | SKIP | 'Tar' already scraped at critic-reviews-metacritic/Tar-critic-reviews.csv
+2026-03-16 00:35:10 | ERROR | ERROR | 'The General' | Movie 'The General' not found on Metacritic. Tried with and without year (1926) and re-release.
+2026-03-16 00:35:10 | INFO | SKIP | 'Witness for the Prosecution' already scraped at critic-reviews-metacritic/Witness for the Prosecution-critic-reviews.csv
+2026-03-16 00:35:10 | INFO | SKIP | 'Before Sunset' already scraped at critic-reviews-metacritic/Before Sunset-critic-reviews.csv
+2026-03-16 00:35:12 | ERROR | ERROR | 'Butch Cassidy & Sundance Kid' | Movie 'Butch Cassidy & Sundance Kid' not found on Metacritic. Tried with and without year (1969) and re-release.
+2026-03-16 00:35:12 | INFO | SKIP | 'Avengers: Infinity War' already scraped at critic-reviews-metacritic/Avengers: Infinity War-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'The Shape of Water' already scraped at critic-reviews-metacritic/The Shape of Water-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'To Kill a Mockingbird' already scraped at critic-reviews-metacritic/To Kill a Mockingbird-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Aliens' already scraped at critic-reviews-metacritic/Aliens-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'The Handmaiden' already scraped at critic-reviews-metacritic/The Handmaiden-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Stagecoach' already scraped at critic-reviews-metacritic/Stagecoach-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'American Beauty' already scraped at critic-reviews-metacritic/American Beauty-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Manchester by the Sea' already scraped at critic-reviews-metacritic/Manchester by the Sea-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'All About Eve' already scraped at critic-reviews-metacritic/All About Eve-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Once Upon a Time in Hollywood' already scraped at critic-reviews-metacritic/Once Upon a Time in Hollywood-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Burning' already scraped at critic-reviews-metacritic/Burning-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Fargo' already scraped at critic-reviews-metacritic/Fargo-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Oldboy' already scraped at critic-reviews-metacritic/Oldboy-critic-reviews.csv
+2026-03-16 00:35:12 | INFO | SKIP | 'Under the Skin' already scraped at critic-reviews-metacritic/Under the Skin-critic-reviews.csv
+2026-03-16 00:35:14 | ERROR | ERROR | 'The 400 Blows' | Movie 'The 400 Blows' not found on Metacritic. Tried with and without year (1959) and re-release.
+2026-03-16 00:35:14 | INFO | SKIP | 'Princess Mononoke' already scraped at critic-reviews-metacritic/Princess Mononoke-critic-reviews.csv
+2026-03-16 00:35:14 | INFO | SKIP | 'Her' already scraped at critic-reviews-metacritic/Her-critic-reviews.csv
+2026-03-16 00:35:17 | ERROR | ERROR | 'Dark Knight Rises' | Movie 'Dark Knight Rises' not found on Metacritic. Tried with and without year (2012) and re-release.
+2026-03-16 00:35:17 | INFO | SKIP | 'No Country for Old Men' already scraped at critic-reviews-metacritic/No Country for Old Men-critic-reviews.csv
+2026-03-16 00:35:17 | INFO | SKIP | 'Ben-Hur' already scraped at critic-reviews-metacritic/Ben-Hur-critic-reviews.csv
+2026-03-16 00:35:17 | INFO | SKIP | 'The Grand Budapest Hotel' already scraped at critic-reviews-metacritic/The Grand Budapest Hotel-critic-reviews.csv
+2026-03-16 00:35:17 | INFO | SKIP | 'Bonnie and Clyde' already scraped at critic-reviews-metacritic/Bonnie and Clyde-critic-reviews.csv
+2026-03-16 00:35:17 | INFO | SKIP | 'La La Land' already scraped at critic-reviews-metacritic/La La Land-critic-reviews.csv
+2026-03-16 00:35:26 | INFO | OK | 'Beauty and the Beast' saved to critic-reviews-metacritic/Beauty and the Beast-critic-reviews.csv
+2026-03-16 00:35:28 | INFO | SKIP | 'Braveheart' already scraped at critic-reviews-metacritic/Braveheart-critic-reviews.csv
+2026-03-16 00:35:30 | ERROR | ERROR | 'Birdman' | Movie 'Birdman' not found on Metacritic. Tried with and without year (2014) and re-release.
+2026-03-16 00:35:30 | INFO | SKIP | 'Breathless' already scraped at critic-reviews-metacritic/Breathless-critic-reviews.csv
+2026-03-16 00:35:30 | INFO | SKIP | 'Joker' already scraped at critic-reviews-metacritic/Joker-critic-reviews.csv
+2026-03-16 00:35:30 | INFO | SKIP | 'Spotlight' already scraped at critic-reviews-metacritic/Spotlight-critic-reviews.csv
+2026-03-16 00:35:33 | ERROR | ERROR | 'Bicycle Thieves' | Movie 'Bicycle Thieves' not found on Metacritic. Tried with and without year (1948) and re-release.
+2026-03-16 00:35:33 | INFO | SKIP | 'Ex Machina' already scraped at critic-reviews-metacritic/Ex Machina-critic-reviews.csv
+2026-03-16 00:35:33 | INFO | SKIP | 'O Brother, Where Art Thou?' already scraped at critic-reviews-metacritic/O Brother, Where Art Thou?-critic-reviews.csv
+2026-03-16 00:35:33 | INFO | SKIP | 'Notorious' already scraped at critic-reviews-metacritic/Notorious-critic-reviews.csv
+2026-03-16 00:35:33 | INFO | SKIP | 'Das Boot' already scraped at critic-reviews-metacritic/Das Boot-critic-reviews.csv
+2026-03-16 00:35:35 | ERROR | ERROR | 'Mulholland Drive' | Movie 'Mulholland Drive' not found on Metacritic. Tried with and without year (2001) and re-release.
+2026-03-16 00:35:35 | INFO | SKIP | 'The Searchers' already scraped at critic-reviews-metacritic/The Searchers-critic-reviews.csv
+2026-03-16 00:35:35 | INFO | SKIP | 'Inglourious Basterds' already scraped at critic-reviews-metacritic/Inglourious Basterds-critic-reviews.csv
+2026-03-16 00:35:35 | INFO | SKIP | 'Pan's Labyrinth' already scraped at critic-reviews-metacritic/Pan's Labyrinth-critic-reviews.csv
+2026-03-16 00:35:35 | INFO | SKIP | 'Hamilton' already scraped at critic-reviews-metacritic/Hamilton-critic-reviews.csv
+2026-03-16 00:35:37 | ERROR | ERROR | 'Amélie' | Movie 'Amélie' not found on Metacritic. Tried with and without year (2001) and re-release.
+2026-03-16 00:35:37 | INFO | SKIP | 'Come and See' already scraped at critic-reviews-metacritic/Come and See-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | '3 Idiots' already scraped at critic-reviews-metacritic/3 Idiots-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'Million Dollar Baby' already scraped at critic-reviews-metacritic/Million Dollar Baby-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'The Bridge on the River Kwai' already scraped at critic-reviews-metacritic/The Bridge on the River Kwai-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'Brokeback Mountain' already scraped at critic-reviews-metacritic/Brokeback Mountain-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'A Clockwork Orange' already scraped at critic-reviews-metacritic/A Clockwork Orange-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'The Sting' already scraped at critic-reviews-metacritic/The Sting-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'The Master' already scraped at critic-reviews-metacritic/The Master-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'Wild Strawberries' already scraped at critic-reviews-metacritic/Wild Strawberries-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'Good Will Hunting' already scraped at critic-reviews-metacritic/Good Will Hunting-critic-reviews.csv
+2026-03-16 00:35:37 | INFO | SKIP | 'Blade Runner 2049' already scraped at critic-reviews-metacritic/Blade Runner 2049-critic-reviews.csv
+2026-03-16 00:35:46 | INFO | OK | 'High Noon' saved to critic-reviews-metacritic/High Noon-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Requiem for a Dream' already scraped at critic-reviews-metacritic/Requiem for a Dream-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'The Deer Hunter' already scraped at critic-reviews-metacritic/The Deer Hunter-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Inside Out 2' already scraped at critic-reviews-metacritic/Inside Out 2-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Eternal Sunshine of the Spotless Mind' already scraped at critic-reviews-metacritic/Eternal Sunshine of the Spotless Mind-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Avengers: Endgame' already scraped at critic-reviews-metacritic/Avengers: Endgame-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Manhattan' already scraped at critic-reviews-metacritic/Manhattan-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Wall-E' already scraped at critic-reviews-metacritic/Wall-E-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'The Great Escape' already scraped at critic-reviews-metacritic/The Great Escape-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'John Wick' already scraped at critic-reviews-metacritic/John Wick-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'LA Confidential' already scraped at critic-reviews-metacritic/LA Confidential-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'Full Metal Jacket' already scraped at critic-reviews-metacritic/Full Metal Jacket-critic-reviews.csv
+2026-03-16 00:35:48 | INFO | SKIP | 'The Zone of Interest' already scraped at critic-reviews-metacritic/The Zone of Interest-critic-reviews.csv
+2026-03-16 00:35:50 | ERROR | ERROR | 'Aguirre, the Wrath of God' | Movie 'Aguirre, the Wrath of God' not found on Metacritic. Tried with and without year (1972) and re-release.
+2026-03-16 00:35:50 | INFO | SKIP | 'Decision to Leave' already scraped at critic-reviews-metacritic/Decision to Leave-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Strangers on a Train' already scraped at critic-reviews-metacritic/Strangers on a Train-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'The Maltese Falcon' already scraped at critic-reviews-metacritic/The Maltese Falcon-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Poor Things' already scraped at critic-reviews-metacritic/Poor Things-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Heat' already scraped at critic-reviews-metacritic/Heat-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Reservoir Dogs' already scraped at critic-reviews-metacritic/Reservoir Dogs-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Kill Bill: Vol 1' already scraped at critic-reviews-metacritic/Kill Bill: Vol 1-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Barry Lyndon' already scraped at critic-reviews-metacritic/Barry Lyndon-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'The Iron Claw' already scraped at critic-reviews-metacritic/The Iron Claw-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Platoon' already scraped at critic-reviews-metacritic/Platoon-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Godzilla Minus One' already scraped at critic-reviews-metacritic/Godzilla Minus One-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Hunt for the Wilderpeople' already scraped at critic-reviews-metacritic/Hunt for the Wilderpeople-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Bottoms' already scraped at critic-reviews-metacritic/Bottoms-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'The Wild Bunch' already scraped at critic-reviews-metacritic/The Wild Bunch-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | '1917' already scraped at critic-reviews-metacritic/1917-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Oppenheimer' already scraped at critic-reviews-metacritic/Oppenheimer-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Rebecca' already scraped at critic-reviews-metacritic/Rebecca-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Talk to Me' already scraped at critic-reviews-metacritic/Talk to Me-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'The Treasure of the Sierra Madre' already scraped at critic-reviews-metacritic/The Treasure of the Sierra Madre-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'The Wrestler' already scraped at critic-reviews-metacritic/The Wrestler-critic-reviews.csv
+2026-03-16 00:35:50 | INFO | SKIP | 'Dog Day Afternoon' already scraped at critic-reviews-metacritic/Dog Day Afternoon-critic-reviews.csv
+2026-03-16 00:36:57 | WARNING | Scrape finished with 12 problematic movies: 8-12, Sunset Blvd., The Great Dictator, The General, Butch Cassidy & Sundance Kid, The 400 Blows, Dark Knight Rises, Birdman, Bicycle Thieves, Mulholland Drive, Amélie, Aguirre, the Wrath of God
+2026-03-16 00:38:49 | WARNING | Scrape finished with 12 problematic movies: 8-12, Sunset Blvd., The Great Dictator, The General, Butch Cassidy & Sundance Kid, The 400 Blows, Dark Knight Rises, Birdman, Bicycle Thieves, Mulholland Drive, Amélie, Aguirre, the Wrath of God
+2026-03-16 00:40:51 | INFO | SKIP | 'The Shawshank Redemption' already scraped at critic-reviews-metacritic/The Shawshank Redemption-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Parasite' already scraped at critic-reviews-metacritic/Parasite-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Star Wars: Episode V - The Empire Strikes Back' already scraped at critic-reviews-metacritic/Star Wars: Episode V - The Empire Strikes Back-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Godfather' already scraped at critic-reviews-metacritic/The Godfather-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Top Gun: Maverick' already scraped at critic-reviews-metacritic/Top Gun: Maverick-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Godfather: Part II' already scraped at critic-reviews-metacritic/The Godfather: Part II-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Spider-Man: Into the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Into the Spider-Verse-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Raiders of the Lost Ark' already scraped at critic-reviews-metacritic/Raiders of the Lost Ark-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Dark Knight' already scraped at critic-reviews-metacritic/The Dark Knight-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Mission: Impossible Dead Reckoning' already scraped at critic-reviews-metacritic/Mission: Impossible Dead Reckoning-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | '12 Angry Men' already scraped at critic-reviews-metacritic/12 Angry Men-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Pulp Fiction' already scraped at critic-reviews-metacritic/Pulp Fiction-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Schindler's List' already scraped at critic-reviews-metacritic/Schindler's List-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Mad Max: Fury Road' already scraped at critic-reviews-metacritic/Mad Max: Fury Road-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Harakiri' already scraped at critic-reviews-metacritic/Harakiri-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Lord of the Rings: The Return of the King' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Return of the King-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Spirited Away' already scraped at critic-reviews-metacritic/Spirited Away-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Ikiru' already scraped at critic-reviews-metacritic/Ikiru-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Inside Out' already scraped at critic-reviews-metacritic/Inside Out-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Lord of the Rings: The Fellowship of the Ring' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Fellowship of the Ring-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Coco' already scraped at critic-reviews-metacritic/Coco-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Goodfellas' already scraped at critic-reviews-metacritic/Goodfellas-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Good, the Bad and the Ugly' already scraped at critic-reviews-metacritic/The Good, the Bad and the Ugly-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Toy Story 3' already scraped at critic-reviews-metacritic/Toy Story 3-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Rear Window' already scraped at critic-reviews-metacritic/Rear Window-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Forrest Gump' already scraped at critic-reviews-metacritic/Forrest Gump-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Toy Story 4' already scraped at critic-reviews-metacritic/Toy Story 4-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'City Lights' already scraped at critic-reviews-metacritic/City Lights-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Fight Club' already scraped at critic-reviews-metacritic/Fight Club-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Finding Nemo' already scraped at critic-reviews-metacritic/Finding Nemo-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Alien' already scraped at critic-reviews-metacritic/Alien-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Lord of the Rings: The Two Towers' already scraped at critic-reviews-metacritic/The Lord of the Rings: The Two Towers-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'How to Train Your Dragon' already scraped at critic-reviews-metacritic/How to Train Your Dragon-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Silence of the Lambs' already scraped at critic-reviews-metacritic/The Silence of the Lambs-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Inception' already scraped at critic-reviews-metacritic/Inception-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Up' already scraped at critic-reviews-metacritic/Up-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Shining' already scraped at critic-reviews-metacritic/The Shining-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Star Trek' already scraped at critic-reviews-metacritic/Star Trek-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Seven' already scraped at critic-reviews-metacritic/Seven-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Matrix' already scraped at critic-reviews-metacritic/The Matrix-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Social Network' already scraped at critic-reviews-metacritic/The Social Network-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Apartment' already scraped at critic-reviews-metacritic/The Apartment-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Eighth Grade' already scraped at critic-reviews-metacritic/Eighth Grade-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Casablanca' already scraped at critic-reviews-metacritic/Casablanca-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'One Flew Over the Cuckoo's Nest' already scraped at critic-reviews-metacritic/One Flew Over the Cuckoo's Nest-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Argo' already scraped at critic-reviews-metacritic/Argo-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Seven Samurai' already scraped at critic-reviews-metacritic/Seven Samurai-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Portrait of a Lady on Fire' already scraped at critic-reviews-metacritic/Portrait of a Lady on Fire-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Hell or High Water' already scraped at critic-reviews-metacritic/Hell or High Water-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'It's a Wonderful Life' already scraped at critic-reviews-metacritic/It's a Wonderful Life-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Memento' already scraped at critic-reviews-metacritic/Memento-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Psycho' already scraped at critic-reviews-metacritic/Psycho-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Spider-Man: No Way Home' already scraped at critic-reviews-metacritic/Spider-Man: No Way Home-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Singin' in the Rain' already scraped at critic-reviews-metacritic/Singin' in the Rain-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'City of God' already scraped at critic-reviews-metacritic/City of God-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Farewell' already scraped at critic-reviews-metacritic/The Farewell-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Apocalypse Now' already scraped at critic-reviews-metacritic/Apocalypse Now-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Saving Private Ryan' already scraped at critic-reviews-metacritic/Saving Private Ryan-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Whiplash' already scraped at critic-reviews-metacritic/Whiplash-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Vertigo' already scraped at critic-reviews-metacritic/Vertigo-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Life Is Beautiful' already scraped at critic-reviews-metacritic/Life Is Beautiful-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Your Name' already scraped at critic-reviews-metacritic/Your Name-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Citizen Kane' already scraped at critic-reviews-metacritic/Citizen Kane-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Green Mile' already scraped at critic-reviews-metacritic/The Green Mile-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Pianist' already scraped at critic-reviews-metacritic/The Pianist-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Taxi Driver' already scraped at critic-reviews-metacritic/Taxi Driver-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Star Wars: Episode IV - A New Hope' already scraped at critic-reviews-metacritic/Star Wars: Episode IV - A New Hope-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Harry Potter and the Deathly Hallows Part 2' already scraped at critic-reviews-metacritic/Harry Potter and the Deathly Hallows Part 2-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | '2001: A Space Odyssey' already scraped at critic-reviews-metacritic/2001: A Space Odyssey-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Interstellar' already scraped at critic-reviews-metacritic/Interstellar-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Spider-Man: Across the Spider-Verse' already scraped at critic-reviews-metacritic/Spider-Man: Across the Spider-Verse-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb' already scraped at critic-reviews-metacritic/Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Terminator 2: Judgment Day' already scraped at critic-reviews-metacritic/Terminator 2: Judgment Day-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Get Out' already scraped at critic-reviews-metacritic/Get Out-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Double Indemnity' already scraped at critic-reviews-metacritic/Double Indemnity-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Back to the Future' already scraped at critic-reviews-metacritic/Back to the Future-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Selma' already scraped at critic-reviews-metacritic/Selma-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Raging Bull' already scraped at critic-reviews-metacritic/Raging Bull-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Moonlight' already scraped at critic-reviews-metacritic/Moonlight-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Chinatown' already scraped at critic-reviews-metacritic/Chinatown-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Lady Bird' already scraped at critic-reviews-metacritic/Lady Bird-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Lawrence of Arabia' already scraped at critic-reviews-metacritic/Lawrence of Arabia-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Dunkirk' already scraped at critic-reviews-metacritic/Dunkirk-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Paddington 2' already scraped at critic-reviews-metacritic/Paddington 2-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Jaws' already scraped at critic-reviews-metacritic/Jaws-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Professional' already scraped at critic-reviews-metacritic/The Professional-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Black Panther' already scraped at critic-reviews-metacritic/Black Panther-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Some Like It Hot' already scraped at critic-reviews-metacritic/Some Like It Hot-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Lion King' already scraped at critic-reviews-metacritic/The Lion King-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'In the Mood for Love' already scraped at critic-reviews-metacritic/In the Mood for Love-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Paths of Glory' already scraped at critic-reviews-metacritic/Paths of Glory-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Gladiator' already scraped at critic-reviews-metacritic/Gladiator-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Arrival' already scraped at critic-reviews-metacritic/Arrival-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'American History X' already scraped at critic-reviews-metacritic/American History X-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Inside Llewyn Davis' already scraped at critic-reviews-metacritic/Inside Llewyn Davis-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Toy Story' already scraped at critic-reviews-metacritic/Toy Story-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Departed' already scraped at critic-reviews-metacritic/The Departed-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Marriage Story' already scraped at critic-reviews-metacritic/Marriage Story-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Prestige' already scraped at critic-reviews-metacritic/The Prestige-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Anatomy of a Fall' already scraped at critic-reviews-metacritic/Anatomy of a Fall-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Third Man' already scraped at critic-reviews-metacritic/The Third Man-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Boyhood' already scraped at critic-reviews-metacritic/Boyhood-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Wizard of Oz' already scraped at critic-reviews-metacritic/The Wizard of Oz-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Usual Suspects' already scraped at critic-reviews-metacritic/The Usual Suspects-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Gravity' already scraped at critic-reviews-metacritic/Gravity-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Roma' already scraped at critic-reviews-metacritic/Roma-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Grave of the Fireflies' already scraped at critic-reviews-metacritic/Grave of the Fireflies-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Holdovers' already scraped at critic-reviews-metacritic/The Holdovers-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Rashomon' already scraped at critic-reviews-metacritic/Rashomon-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Everything Everywhere All at Once' already scraped at critic-reviews-metacritic/Everything Everywhere All at Once-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'North by Northwest' already scraped at critic-reviews-metacritic/North by Northwest-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'The Intouchables' already scraped at critic-reviews-metacritic/The Intouchables-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Minari' already scraped at critic-reviews-metacritic/Minari-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Blade Runner' already scraped at critic-reviews-metacritic/Blade Runner-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Modern Times' already scraped at critic-reviews-metacritic/Modern Times-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Past Lives' already scraped at critic-reviews-metacritic/Past Lives-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Blue Velvet' already scraped at critic-reviews-metacritic/Blue Velvet-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Once Upon a Time in the West' already scraped at critic-reviews-metacritic/Once Upon a Time in the West-critic-reviews.csv
+2026-03-16 00:40:51 | INFO | SKIP | 'Carol' already scraped at critic-reviews-metacritic/Carol-critic-reviews.csv
+2026-03-16 00:40:54 | ERROR | ERROR | '8-12' | Movie '8-12' not found on Metacritic. Tried with and without year (1963) and re-release.
+2026-03-16 00:40:54 | INFO | SKIP | 'If Beale Street Could Talk' already scraped at critic-reviews-metacritic/If Beale Street Could Talk-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'On the Waterfront' already scraped at critic-reviews-metacritic/On the Waterfront-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Cinema Paradiso' already scraped at critic-reviews-metacritic/Cinema Paradiso-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'First Cow' already scraped at critic-reviews-metacritic/First Cow-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Amadeus' already scraped at critic-reviews-metacritic/Amadeus-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Call Me by Your Name' already scraped at critic-reviews-metacritic/Call Me by Your Name-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Do the Right Thing' already scraped at critic-reviews-metacritic/Do the Right Thing-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Widows' already scraped at critic-reviews-metacritic/Widows-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Ran' already scraped at critic-reviews-metacritic/Ran-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | '12 Years a Slave' already scraped at critic-reviews-metacritic/12 Years a Slave-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Metropolis' already scraped at critic-reviews-metacritic/Metropolis-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'The Wolf of Wall Street' already scraped at critic-reviews-metacritic/The Wolf of Wall Street-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Unforgiven' already scraped at critic-reviews-metacritic/Unforgiven-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Shoplifters' already scraped at critic-reviews-metacritic/Shoplifters-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Django Unchained' already scraped at critic-reviews-metacritic/Django Unchained-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Brooklyn' already scraped at critic-reviews-metacritic/Brooklyn-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Touch of Evil' already scraped at critic-reviews-metacritic/Touch of Evil-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Won't You Be My Neighbor?' already scraped at critic-reviews-metacritic/Won't You Be My Neighbor?-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'The Lives of Others' already scraped at critic-reviews-metacritic/The Lives of Others-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'The Favourite' already scraped at critic-reviews-metacritic/The Favourite-critic-reviews.csv
+2026-03-16 00:40:54 | INFO | SKIP | 'Stalker' already scraped at critic-reviews-metacritic/Stalker-critic-reviews.csv
+2026-03-16 00:41:07 | INFO | OK | 'Sunset Boulevard' saved to critic-reviews-metacritic/Sunset Boulevard-critic-reviews.csv
+2026-03-16 00:41:09 | INFO | SKIP | 'A Separation' already scraped at critic-reviews-metacritic/A Separation-critic-reviews.csv
+2026-03-16 00:41:09 | INFO | SKIP | 'Annie Hall' already scraped at critic-reviews-metacritic/Annie Hall-critic-reviews.csv
+2026-03-16 00:41:09 | INFO | SKIP | 'Little Women (2019)' already scraped at critic-reviews-metacritic/Little Women (2019)-critic-reviews.csv
+2026-03-16 00:41:09 | INFO | SKIP | 'Phantom Thread' already scraped at critic-reviews-metacritic/Phantom Thread-critic-reviews.csv
+2026-03-16 00:41:09 | INFO | SKIP | 'Great Expectations' already scraped at critic-reviews-metacritic/Great Expectations-critic-reviews.csv
+2026-03-16 00:41:11 | ERROR | ERROR | 'The Great Dictator' | Movie 'The Great Dictator' not found on Metacritic. Tried with and without year (1940) and re-release.
+2026-03-16 00:41:11 | INFO | SKIP | 'Tar' already scraped at critic-reviews-metacritic/Tar-critic-reviews.csv
+2026-03-16 00:41:22 | INFO | OK | 'The General' saved to critic-reviews-metacritic/The General-critic-reviews.csv
+2026-03-16 00:41:24 | INFO | SKIP | 'Witness for the Prosecution' already scraped at critic-reviews-metacritic/Witness for the Prosecution-critic-reviews.csv
+2026-03-16 00:41:24 | INFO | SKIP | 'Before Sunset' already scraped at critic-reviews-metacritic/Before Sunset-critic-reviews.csv
+2026-03-16 00:41:37 | INFO | OK | 'Butch Cassidy and the Sundance Kid' saved to critic-reviews-metacritic/Butch Cassidy and the Sundance Kid-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Avengers: Infinity War' already scraped at critic-reviews-metacritic/Avengers: Infinity War-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'The Shape of Water' already scraped at critic-reviews-metacritic/The Shape of Water-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'To Kill a Mockingbird' already scraped at critic-reviews-metacritic/To Kill a Mockingbird-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Aliens' already scraped at critic-reviews-metacritic/Aliens-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'The Handmaiden' already scraped at critic-reviews-metacritic/The Handmaiden-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Stagecoach' already scraped at critic-reviews-metacritic/Stagecoach-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'American Beauty' already scraped at critic-reviews-metacritic/American Beauty-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Manchester by the Sea' already scraped at critic-reviews-metacritic/Manchester by the Sea-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'All About Eve' already scraped at critic-reviews-metacritic/All About Eve-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Once Upon a Time in Hollywood' already scraped at critic-reviews-metacritic/Once Upon a Time in Hollywood-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Burning' already scraped at critic-reviews-metacritic/Burning-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Fargo' already scraped at critic-reviews-metacritic/Fargo-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Oldboy' already scraped at critic-reviews-metacritic/Oldboy-critic-reviews.csv
+2026-03-16 00:41:39 | INFO | SKIP | 'Under the Skin' already scraped at critic-reviews-metacritic/Under the Skin-critic-reviews.csv
+2026-03-16 00:41:49 | ERROR | ERROR | 'The 400 Blows' | Movie 'The 400 Blows' not found on Metacritic. Tried with and without year (1959) and re-release.
+2026-03-16 00:41:49 | INFO | SKIP | 'Princess Mononoke' already scraped at critic-reviews-metacritic/Princess Mononoke-critic-reviews.csv
+2026-03-16 00:41:49 | INFO | SKIP | 'Her' already scraped at critic-reviews-metacritic/Her-critic-reviews.csv
+2026-03-16 00:42:05 | INFO | OK | 'The Dark Knight Rises' saved to critic-reviews-metacritic/The Dark Knight Rises-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'No Country for Old Men' already scraped at critic-reviews-metacritic/No Country for Old Men-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'Ben-Hur' already scraped at critic-reviews-metacritic/Ben-Hur-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'The Grand Budapest Hotel' already scraped at critic-reviews-metacritic/The Grand Budapest Hotel-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'Bonnie and Clyde' already scraped at critic-reviews-metacritic/Bonnie and Clyde-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'La La Land' already scraped at critic-reviews-metacritic/La La Land-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'Beauty and the Beast' already scraped at critic-reviews-metacritic/Beauty and the Beast-critic-reviews.csv
+2026-03-16 00:42:07 | INFO | SKIP | 'Braveheart' already scraped at critic-reviews-metacritic/Braveheart-critic-reviews.csv
+2026-03-16 00:42:20 | INFO | OK | 'Birdman or (The Unexpected Virtue of Ignorance)' saved to critic-reviews-metacritic/Birdman or (The Unexpected Virtue of Ignorance)-critic-reviews.csv
+2026-03-16 00:42:22 | INFO | SKIP | 'Breathless' already scraped at critic-reviews-metacritic/Breathless-critic-reviews.csv
+2026-03-16 00:42:22 | INFO | SKIP | 'Joker' already scraped at critic-reviews-metacritic/Joker-critic-reviews.csv
+2026-03-16 00:42:22 | INFO | SKIP | 'Spotlight' already scraped at critic-reviews-metacritic/Spotlight-critic-reviews.csv
+2026-03-16 00:42:24 | ERROR | ERROR | 'Bicycle Thieves' | Movie 'Bicycle Thieves' not found on Metacritic. Tried with and without year (1948) and re-release.
+2026-03-16 00:42:24 | INFO | SKIP | 'Ex Machina' already scraped at critic-reviews-metacritic/Ex Machina-critic-reviews.csv
+2026-03-16 00:42:24 | INFO | SKIP | 'O Brother, Where Art Thou?' already scraped at critic-reviews-metacritic/O Brother, Where Art Thou?-critic-reviews.csv
+2026-03-16 00:42:24 | INFO | SKIP | 'Notorious' already scraped at critic-reviews-metacritic/Notorious-critic-reviews.csv
+2026-03-16 00:42:24 | INFO | SKIP | 'Das Boot' already scraped at critic-reviews-metacritic/Das Boot-critic-reviews.csv
+2026-03-16 00:42:37 | INFO | OK | 'Mulholland Dr' saved to critic-reviews-metacritic/Mulholland Dr-critic-reviews.csv
+2026-03-16 00:42:39 | INFO | SKIP | 'The Searchers' already scraped at critic-reviews-metacritic/The Searchers-critic-reviews.csv
+2026-03-16 00:42:39 | INFO | SKIP | 'Inglourious Basterds' already scraped at critic-reviews-metacritic/Inglourious Basterds-critic-reviews.csv
+2026-03-16 00:42:40 | INFO | SKIP | 'Pan's Labyrinth' already scraped at critic-reviews-metacritic/Pan's Labyrinth-critic-reviews.csv
+2026-03-16 00:42:40 | INFO | SKIP | 'Hamilton' already scraped at critic-reviews-metacritic/Hamilton-critic-reviews.csv
+2026-03-16 00:42:53 | INFO | OK | 'Amelie' saved to critic-reviews-metacritic/Amelie-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Come and See' already scraped at critic-reviews-metacritic/Come and See-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | '3 Idiots' already scraped at critic-reviews-metacritic/3 Idiots-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Million Dollar Baby' already scraped at critic-reviews-metacritic/Million Dollar Baby-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Bridge on the River Kwai' already scraped at critic-reviews-metacritic/The Bridge on the River Kwai-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Brokeback Mountain' already scraped at critic-reviews-metacritic/Brokeback Mountain-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'A Clockwork Orange' already scraped at critic-reviews-metacritic/A Clockwork Orange-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Sting' already scraped at critic-reviews-metacritic/The Sting-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Master' already scraped at critic-reviews-metacritic/The Master-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Wild Strawberries' already scraped at critic-reviews-metacritic/Wild Strawberries-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Good Will Hunting' already scraped at critic-reviews-metacritic/Good Will Hunting-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Blade Runner 2049' already scraped at critic-reviews-metacritic/Blade Runner 2049-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'High Noon' already scraped at critic-reviews-metacritic/High Noon-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Requiem for a Dream' already scraped at critic-reviews-metacritic/Requiem for a Dream-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Deer Hunter' already scraped at critic-reviews-metacritic/The Deer Hunter-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Inside Out 2' already scraped at critic-reviews-metacritic/Inside Out 2-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Eternal Sunshine of the Spotless Mind' already scraped at critic-reviews-metacritic/Eternal Sunshine of the Spotless Mind-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Avengers: Endgame' already scraped at critic-reviews-metacritic/Avengers: Endgame-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Manhattan' already scraped at critic-reviews-metacritic/Manhattan-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Wall-E' already scraped at critic-reviews-metacritic/Wall-E-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Great Escape' already scraped at critic-reviews-metacritic/The Great Escape-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'John Wick' already scraped at critic-reviews-metacritic/John Wick-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'LA Confidential' already scraped at critic-reviews-metacritic/LA Confidential-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'Full Metal Jacket' already scraped at critic-reviews-metacritic/Full Metal Jacket-critic-reviews.csv
+2026-03-16 00:42:55 | INFO | SKIP | 'The Zone of Interest' already scraped at critic-reviews-metacritic/The Zone of Interest-critic-reviews.csv
+2026-03-16 00:42:57 | ERROR | ERROR | 'Aguirre, the Wrath of God' | Movie 'Aguirre, the Wrath of God' not found on Metacritic. Tried with and without year (1972) and re-release.
+2026-03-16 00:42:57 | INFO | SKIP | 'Decision to Leave' already scraped at critic-reviews-metacritic/Decision to Leave-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Strangers on a Train' already scraped at critic-reviews-metacritic/Strangers on a Train-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'The Maltese Falcon' already scraped at critic-reviews-metacritic/The Maltese Falcon-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Poor Things' already scraped at critic-reviews-metacritic/Poor Things-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Heat' already scraped at critic-reviews-metacritic/Heat-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Reservoir Dogs' already scraped at critic-reviews-metacritic/Reservoir Dogs-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Kill Bill: Vol 1' already scraped at critic-reviews-metacritic/Kill Bill: Vol 1-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Barry Lyndon' already scraped at critic-reviews-metacritic/Barry Lyndon-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'The Iron Claw' already scraped at critic-reviews-metacritic/The Iron Claw-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Platoon' already scraped at critic-reviews-metacritic/Platoon-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Godzilla Minus One' already scraped at critic-reviews-metacritic/Godzilla Minus One-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Hunt for the Wilderpeople' already scraped at critic-reviews-metacritic/Hunt for the Wilderpeople-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Bottoms' already scraped at critic-reviews-metacritic/Bottoms-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'The Wild Bunch' already scraped at critic-reviews-metacritic/The Wild Bunch-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | '1917' already scraped at critic-reviews-metacritic/1917-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Oppenheimer' already scraped at critic-reviews-metacritic/Oppenheimer-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Rebecca' already scraped at critic-reviews-metacritic/Rebecca-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Talk to Me' already scraped at critic-reviews-metacritic/Talk to Me-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'The Treasure of the Sierra Madre' already scraped at critic-reviews-metacritic/The Treasure of the Sierra Madre-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'The Wrestler' already scraped at critic-reviews-metacritic/The Wrestler-critic-reviews.csv
+2026-03-16 00:42:57 | INFO | SKIP | 'Dog Day Afternoon' already scraped at critic-reviews-metacritic/Dog Day Afternoon-critic-reviews.csv
+2026-03-16 00:43:03 | WARNING | Scrape finished with 5 problematic movies: 8-12, The Great Dictator, The 400 Blows, Bicycle Thieves, Aguirre, the Wrath of God
