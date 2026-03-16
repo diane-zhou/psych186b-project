@@ -1,33 +1,4 @@
 title,imdb_rating,year,budget,gross_us,movie_key
-The Shawshank Redemption,9.3,N/A,"$25,000,000","$28,767,189",The_Shawshank_Redemption
-Parasite,8.5,N/A,"$11,400,000","$53,847,897",Parasite
-Star Wars: Episode V - The Empire Strikes Back,8.7,N/A,"$18,000,000","$292,753,960",Star_Wars:_Episode_V_-_The_Empire_Strikes_Back
-The Godfather,9.2,N/A,"$6,000,000","$136,381,073",The_Godfather
-Top Gun: Maverick,8.2,N/A,"$170,000,000","$718,732,821",Top_Gun:_Maverick
-The Godfather Part II,9.0,N/A,"$13,000,000","$47,834,595",The_Godfather_Part_II
-Spider-Man: Into the Spider-Verse,8.4,N/A,"$90,000,000","$190,241,310",Spider-Man:_Into_the_Spider-Verse
-Raiders of the Lost Ark,8.4,N/A,"$18,000,000","$248,159,971",Raiders_of_the_Lost_Ark
-The Dark Knight,9.1,N/A,"$185,000,000","$534,987,076",The_Dark_Knight
-Mission: Impossible - Dead Reckoning Part One,7.6,N/A,"$291,000,000","$172,640,980",Mission:_Impossible_-_Dead_Reckoning_Part_One
-12 Angry Men,9.0,N/A,"$350,000",N/A,12_Angry_Men
-Pulp Fiction,8.8,N/A,"$8,000,000","$107,928,762",Pulp_Fiction
-Schindler's List,9.0,N/A,"$22,000,000","$96,898,818",Schindler's_List
-Mad Max: Fury Road,8.1,N/A,"$150,000,000","$154,280,290",Mad_Max:_Fury_Road
-Harakiri,8.6,N/A,N/A,N/A,Harakiri
-The Lord of the Rings: The Return of the King,9.0,N/A,"$94,000,000","$386,975,644",The_Lord_of_the_Rings:_The_Return_of_the_King
-Spirited Away,8.6,N/A,"¥2,000,000,000","$14,821,254",Spirited_Away
-Ikiru,8.3,N/A,N/A,"$60,239",Ikiru
-Inside Out,8.1,N/A,"$175,000,000","$356,461,711",Inside_Out
-The Lord of the Rings: The Fellowship of the Ring,8.9,N/A,"$93,000,000","$325,873,309",The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
-Coco,8.4,N/A,"$175,000,000","$210,460,015",Coco
-GoodFellas,8.7,N/A,"$25,000,000","$46,909,721",GoodFellas
-"The Good, the Bad and the Ugly",8.8,N/A,"$1,200,000","$25,100,000","The_Good,_the_Bad_and_the_Ugly"
-Toy Story 3,8.3,N/A,"$200,000,000","$415,004,880",Toy_Story_3
-Rear Window,8.5,N/A,"$1,000,000","$37,622,343",Rear_Window
-Forrest Gump,8.8,N/A,"$55,000,000","$330,455,270",Forrest_Gump
-Toy Story 4,7.6,N/A,"$200,000,000","$434,038,008",Toy_Story_4
-City Lights,8.5,N/A,"$1,500,000","$19,181",City_Lights
-Fight Club,8.8,N/A,"$63,000,000","$37,030,102",Fight_Club
 The Shawshank Redemption,9.3,1994,"$25,000,000","$28,767,189",The_Shawshank_Redemption
 Parasite,8.5,2019,"$11,400,000","$53,847,897",Parasite
 Star Wars: Episode V - The Empire Strikes Back,8.7,1980,"$18,000,000","$292,753,960",Star_Wars:_Episode_V_-_The_Empire_Strikes_Back
@@ -37,24 +8,7 @@ The Godfather: Part II,9.0,1974,"$13,000,000","$47,834,595",The_Godfather:_Part_
 Spider-Man: Into the Spider-Verse,8.4,2018,"$90,000,000","$190,241,310",Spider-Man:_Into_the_Spider-Verse
 Raiders of the Lost Ark,8.4,1981,"$18,000,000","$248,159,971",Raiders_of_the_Lost_Ark
 The Dark Knight,9.1,2008,"$185,000,000","$534,987,076",The_Dark_Knight
-Mission: Impossible Dead Reckoning,7.6,2023,"$291,000,000","$172,640,980",Mission:_Impossible_Dead_Reckoning
-12 Angry Men,9.0,1957,"$350,000",N/A,12_Angry_Men
-Pulp Fiction,8.8,1994,"$8,000,000","$107,928,762",Pulp_Fiction
-Schindler's List,9.0,1993,"$22,000,000","$96,898,818",Schindler's_List
-Mad Max: Fury Road,8.1,2015,"$150,000,000","$154,280,290",Mad_Max:_Fury_Road
-Harakiri,8.6,1962,N/A,N/A,Harakiri
-The Lord of the Rings: The Return of the King,9.0,2003,"$94,000,000","$386,975,644",The_Lord_of_the_Rings:_The_Return_of_the_King
-Spirited Away,8.6,2001,"¥2,000,000,000","$14,821,254",Spirited_Away
-Ikiru,8.3,1952,N/A,"$60,239",Ikiru
-The Shawshank Redemption,9.3,1994,"$25,000,000","$28,767,189",The_Shawshank_Redemption
-Parasite,8.5,2019,"$11,400,000","$53,847,897",Parasite
-Star Wars: Episode V - The Empire Strikes Back,8.7,1980,"$18,000,000","$292,753,960",Star_Wars:_Episode_V_-_The_Empire_Strikes_Back
-The Godfather,9.2,1972,"$6,000,000","$136,381,073",The_Godfather
-Top Gun: Maverick,8.2,2022,"$170,000,000","$718,732,821",Top_Gun:_Maverick
-The Godfather: Part II,9.0,1974,"$13,000,000","$47,834,595",The_Godfather:_Part_II
-Spider-Man: Into the Spider-Verse,8.4,2018,"$90,000,000","$190,241,310",Spider-Man:_Into_the_Spider-Verse
 Raiders of the Lost Ark,8.4,1981,"$18,000,000","$248,159,971",Raiders_of_the_Lost_Ark
-The Dark Knight,9.1,2008,"$185,000,000","$534,987,076",The_Dark_Knight
 Mission: Impossible Dead Reckoning,7.6,2023,"$291,000,000","$172,640,980",Mission:_Impossible_Dead_Reckoning
 12 Angry Men,9.0,1957,"$350,000",N/A,12_Angry_Men
 Pulp Fiction,8.8,1994,"$8,000,000","$107,928,762",Pulp_Fiction
@@ -112,12 +66,12 @@ Citizen Kane,8.2,1941,"$839,727","$1,627,530",Citizen_Kane
 The Green Mile,8.6,1999,"$60,000,000","$136,801,374",The_Green_Mile
 The Pianist,8.5,2002,"$35,000,000","$32,590,750",The_Pianist
 Taxi Driver,8.2,1976,"$1,300,000","$28,262,574",Taxi_Driver
-Star Wars: Episode IV - A New Hope,8.6,1977,"$11,000,000","$460,998,507",Star_Wars:_Episode_IV_-_A_New_Hope
+Star Wars: Episode IV - A New Hope,8.6,1977,"$11,000,000","$460,998,507",Star_Wars:_Episode_IV_A_New_Hope
 Harry Potter and the Deathly Hallows Part 2,8.1,2011,"$125,000,000","$381,884,297",Harry_Potter_and_the_Deathly_Hallows_Part_2
 2001: A Space Odyssey,8.3,1968,"$12,000,000","$60,481,243",2001:_A_Space_Odyssey
 Interstellar,8.7,2014,"$165,000,000","$203,227,580",Interstellar
-Spider-Man: Across the Spider-Verse,8.5,2023,"$100,000,000","$381,593,754",Spider-Man:_Across_the_Spider-Verse
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,1964,"$1,800,000","$9,440,272",Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb
+Spider-Man: Across the Spider-Verse,8.5,2023,"$100,000,000","$381,593,754",Spider-Man_Across_the_Spider-Verse
+Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,1964,"$1,800,000","$9,440,272",Dr_Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb
 Terminator 2: Judgment Day,8.6,1991,"$102,000,000","$205,881,154",Terminator_2:_Judgment_Day
 Get Out,7.8,2017,"$4,500,000","$176,196,665",Get_Out
 Double Indemnity,8.3,1944,"$927,262",N/A,Double_Indemnity
@@ -230,7 +184,7 @@ Joker,8.3,2019,"$55,000,000","$335,477,657",Joker
 Spotlight,8.1,2015,"$20,000,000","$45,055,776",Spotlight
 Bicycle Thieves,8.2,1948,"$133,000","$371,111",Bicycle_Thieves
 Ex Machina,7.7,2014,"$15,000,000","$25,442,958",Ex_Machina
-"O Brother, Where Art Thou?",7.7,2000,"$26,000,000","$45,512,588","O_Brother,_Where_Art_Thou?"
+"O Brother, Where Art Thou",7.7,2000,"$26,000,000","$45,512,588","O_Brother,_Where_Art_Thou"
 Notorious,7.9,1946,"$2,000,000",N/A,Notorious
 Das Boot,8.3,1981,"DEM 32,000,000","$11,487,676",Das_Boot
 Mulholland Dr,7.9,2001,"$15,000,000","$7,220,243",Mulholland_Dr
