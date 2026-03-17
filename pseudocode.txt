@@ -1,4 +1,0 @@
-1. Scrape movie info and top 50 featured reviews | Y
-2. Input movie name and return movie and review URLs
-3. Build webscrapers for Rotten Tomatoes and LetterBoxd
-4. Build webscrapers for Rolling Stone and New York Times
